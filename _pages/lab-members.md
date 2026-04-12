@@ -13,9 +13,7 @@ author_profile: true
     <p><strong>Associate Professor</strong><br>
     Department of Public Administration<br>
     Ewha Womans University</p>
-
-    <p>
-    Research interests include environmental policy, climate resilience, sustainability, spatial policy analysis, green infrastructure, and urban governance.
+ 
     </p>
   </div>
 </div>
