@@ -41,6 +41,7 @@ author_profile: true
 
 
 <h2>Articles <span style="font-weight: normal; font-style: italic;">(in progress)</span></h2>
+
 - “The environmental performance of Seoul’s public bike sharing system” *R&R*
 - “Revisiting the Environmental Kuznets Curve Hypothesis for Municipal Solid Waste” *under review*
 - "Effectiveness of Nagoya Protocol" *under review*
