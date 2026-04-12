@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Yoomi Kim"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-
-**Yoomi Kim**
 
 Associate Professor  
 Department of Public Administration  
