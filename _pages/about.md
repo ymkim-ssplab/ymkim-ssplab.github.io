@@ -24,12 +24,12 @@ She maintains ongoing international collaborations with scholars in Japan, the U
   <span style="background:#eef3ef; padding:6px 12px; border-radius:20px;">Policy Evaluation</span>
 </p>
 
-<p>
 ## Latest News
 
 - April 2026: Accepted for publication in the *Environmental Management (SCIE)*, with Han Jinhee as first author and Yoomi Kim as corresponding author
 - March 2026: Invited talk at the Public Research Seminar of the Research Center for Sustainability and Environment, Shiga University, Japan <br>  “Evidence-Based Research on Environmental Policy for Resilient Cities”
-</p>
+
+<br>
 
 <p align="center">
   <img src="/images/logo.png" alt="Sustainability and Spatial Policy Lab logo" width="250">
