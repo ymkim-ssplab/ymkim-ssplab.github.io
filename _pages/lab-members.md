@@ -95,12 +95,9 @@ author_profile: true
     <p><strong>M.A. Student</strong></p>
 
     <p>
-    Student Name studies sustainability, urban resilience, and public policy evaluation.
+    After completing her master's degree, she entered the Ph.D. program in Communication and Media at the University of Michigan.
     </p>
-
-    <p>
-    <strong>Research Interests:</strong> Sustainability, Urban Resilience, Policy Evaluation
-    </p>
+   
   </div>
 </div>
 
