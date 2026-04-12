@@ -79,3 +79,12 @@
   border-bottom: 2px solid var(--global-text-color);
   /* No need to repeat pointer-events and cursor here */
 }
+
+.masthead__menu-item {
+  font-size: 1.1rem;
+}
+
+.masthead__menu-item--lg {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
