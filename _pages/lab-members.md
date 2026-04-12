@@ -54,6 +54,86 @@ author_profile: true
   </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <img src="/images/student2.jpg" alt="Student Name" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 0;">Student Name</h3>
+    <p><strong>M.A. Student</strong></p>
+
+    <p>
+    Student Name studies sustainability, urban resilience, and public policy evaluation.
+    </p>
+
+    <p>
+    <strong>Research Interests:</strong> Sustainability, Urban Resilience, Policy Evaluation
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <img src="/images/student2.jpg" alt="Student Name" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 0;">Student Name</h3>
+    <p><strong>M.A. Student</strong></p>
+
+    <p>
+    Student Name studies sustainability, urban resilience, and public policy evaluation.
+    </p>
+
+    <p>
+    <strong>Research Interests:</strong> Sustainability, Urban Resilience, Policy Evaluation
+    </p>
+  </div>
+</div>
+
+
 ## Alumni
 
 Information on alumni will be added soon.
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <img src="/images/student2.jpg" alt="Student Name" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 0;">Student Name</h3>
+    <p><strong>M.A. Student</strong></p>
+
+    <p>
+    Student Name studies sustainability, urban resilience, and public policy evaluation.
+    </p>
+
+    <p>
+    <strong>Research Interests:</strong> Sustainability, Urban Resilience, Policy Evaluation
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <img src="/images/student2.jpg" alt="Student Name" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 0;">Student Name</h3>
+    <p><strong>M.A. Student</strong></p>
+
+    <p>
+    Student Name studies sustainability, urban resilience, and public policy evaluation.
+    </p>
+
+    <p>
+    <strong>Research Interests:</strong> Sustainability, Urban Resilience, Policy Evaluation
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <img src="/images/student2.jpg" alt="Student Name" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 0;">Student Name</h3>
+    <p><strong>M.A. Student</strong></p>
+
+    <p>
+    Student Name studies sustainability, urban resilience, and public policy evaluation.
+    </p>
+
+    <p>
+    <strong>Research Interests:</strong> Sustainability, Urban Resilience, Policy Evaluation
+    </p>
+  </div>
+</div>
