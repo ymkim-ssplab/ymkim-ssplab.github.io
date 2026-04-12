@@ -16,6 +16,7 @@ Education
 * B.A. in Public Administration (Minor: Economics, East Asia Studies), Ewha Womans University, 2007
 
 
+
 Academic Appointments
 ======
 * Mar. 2023–Present	Department of Public Administration, Ewha Womans University. Associate Professor
@@ -30,7 +31,8 @@ Academic Appointments
 * Nov. 2014–Jan. 2018	Seoul National University Asia Center. Research Fellow 
 * Jun. 2014–Mar.2016	Center for Risk Research, Shiga University. Visiting Research Associate
 
-  
+
+
 Service and leadership
 ======
 * East Asian Association of Environmental and Resource Economics (AAERE), Member
