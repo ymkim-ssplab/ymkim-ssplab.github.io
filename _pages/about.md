@@ -1,15 +1,20 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Sustainability and Spatial Policy Lab"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Welcome to the Sustainability and Spatial Policy Lab.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+The lab is directed by Yoomi Kim, Associate Professor of Department of Public Administration at Ewha Womans University. 
+
+Prof. Yoomi Kim is an Associate Professor in the Department of Public Administration at Ewha Womans University, where she conducts in-depth and interdisciplinary research on international administration and environmental policy. Her research interests include international policy, environmental policy, sustainable development, and policy evaluation. She actively integrates spatial analysis, big-data analytics, and other methodological approaches to advance cross-disciplinary inquiry. She also maintains ongoing international collaborations with scholars in Japan, the United States, China, and beyond through joint research and global projects. Her work has appeared in leading domestic and international journals, including Global Environmental Politics and Stochastic Environmental Research and Risk Assessment.
+
+Our research focuses on environmental policy, climate resilience, sustainability, spatial analysis, and urban governance. Current topics include green infrastructure, flood resilience, environmental Kuznets curve analysis, and policy evaluation using spatial econometrics and computational methods.
+
 
 A data-driven personal website
 ======
