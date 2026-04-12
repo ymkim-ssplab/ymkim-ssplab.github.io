@@ -16,18 +16,18 @@ The Sustainability and Spatial Policy Lab conducts research on environmental pol
 Prof. Yoomi Kim is an Associate Professor in the Department of Public Administration at Ewha Womans University. Her research focuses on international administration, environmental policy, sustainable development, and policy evaluation. She actively integrates spatial analysis, big-data analytics, and other methodological approaches to advance interdisciplinary research.
 She maintains ongoing international collaborations with scholars in Japan, the United States, China, and other countries through joint research and global projects. Her work has appeared in leading domestic and international journals, including *Global Environmental Politics*, *The Annals of Regional Science*, and *Stochastic Environmental Research and Risk Assessment*.-->
 
-<p style="line-height: 2.8;">
-  <span style="display:inline-block; background:#eef3ef; padding:6px 12px; border-radius:20px; margin-right:8px; margin-bottom:8px;">Environmental Policy</span>
-  <span style="display:inline-block; background:#eef3ef; padding:6px 12px; border-radius:20px; margin-right:8px; margin-bottom:8px;">Sustainable Development</span>
-  <span style="display:inline-block; background:#eef3ef; padding:6px 12px; border-radius:20px; margin-right:8px; margin-bottom:8px;">Climate Resilience</span>
-  <span style="display:inline-block; background:#eef3ef; padding:6px 12px; border-radius:20px; margin-bottom:8px;">International agreement</span>
+<p style="line-height: 3;">
+  <span style="display:inline-block; background:#eef3ef; padding:8px 16px; border-radius:20px; margin-right:8px; margin-bottom:8px;">Environmental Policy</span>
+  <span style="display:inline-block; background:#eef3ef; padding:8px 16px; border-radius:20px; margin-right:8px; margin-bottom:8px;">Sustainable Development</span>
+  <span style="display:inline-block; background:#eef3ef; padding:8px 16px; border-radius:20px; margin-right:8px; margin-bottom:8px;">Climate Resilience</span>
+  <span style="display:inline-block; background:#eef3ef; padding:8px 16px; border-radius:20px; margin-bottom:8px;">International agreement</span>
 </p>
 
-<p style="line-height: 2.8;">
-  <span style="display:inline-block; background:#eef3ef; padding:6px 12px; border-radius:20px; margin-right:8px; margin-bottom:8px;">Spatial Econometrics</span>
-  <span style="display:inline-block; background:#eef3ef; padding:6px 12px; border-radius:20px; margin-right:8px; margin-bottom:8px;">Green Infrastructure</span>
-  <span style="display:inline-block; background:#eef3ef; padding:6px 12px; border-radius:20px; margin-right:8px; margin-bottom:8px;">Policy Evaluation</span>
-    <span style="display:inline-block; background:#eef3ef; padding:6px 12px; border-radius:20px; margin-right:8px; margin-bottom:8px;">Environmental Governance</span>
+<p style="line-height: 3;">
+  <span style="display:inline-block; background:#eef3ef; padding:8px 16px; border-radius:20px; margin-right:8px; margin-bottom:8px;">Spatial Econometrics</span>
+  <span style="display:inline-block; background:#eef3ef; padding:8px 16px; border-radius:20px; margin-right:8px; margin-bottom:8px;">Green Infrastructure</span>
+  <span style="display:inline-block; background:#eef3ef; padding:8px 16px; border-radius:20px; margin-right:8px; margin-bottom:8px;">Policy Evaluation</span>
+    <span style="display:inline-block; background:#eef3ef; padding:8px 16px; border-radius:20px; margin-right:8px; margin-bottom:8px;">Environmental Governance</span>
 </p>
 
 ## Latest News
