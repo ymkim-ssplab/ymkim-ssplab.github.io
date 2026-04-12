@@ -44,7 +44,7 @@ author_profile: true
     </p>
 
     <p>
-    <strong>Research Interests:</strong> Sustainability, Urban Resilience, Policy Evaluation
+    Research Interests: Sustainability, Urban Resilience, Policy Evaluation
     </p>
   </div>
 </div>
@@ -60,7 +60,7 @@ author_profile: true
     </p>
 
     <p>
-    <strong>Research Interests:</strong> Sustainability, Urban Resilience, Policy Evaluation
+    Research Interests: Sustainability, Urban Resilience, Policy Evaluation
     </p>
   </div>
 </div>
@@ -76,7 +76,7 @@ author_profile: true
     </p>
 
     <p>
-    <strong>Research Interests:</strong> Sustainability, Urban Resilience, Policy Evaluation
+    Research Interests: Sustainability, Urban Resilience, Policy Evaluation
     </p>
   </div>
 </div>
