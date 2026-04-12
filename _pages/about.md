@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+
+
 Welcome to the Sustainability and Spatial Policy Lab.
 -----
 The lab is directed by Yoomi Kim, Associate Professor of Department of Public Administration at Ewha Womans University. 
