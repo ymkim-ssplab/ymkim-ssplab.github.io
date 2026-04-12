@@ -25,7 +25,7 @@ She maintains ongoing international collaborations with scholars in Japan, the U
 
 <p style="line-height: 1.7; margin-bottom: 0;">
   <span style="display:inline-block; background:#eef3ef; padding:3px 14px; border-radius:18px; margin-right:8px; margin-bottom:8px; font-size:0.95em;">Spatial Econometrics</span>
-  <span style="display:inline-block; background:#eef3ef; padding:3px 14px; border-radius:18px; margin-right:8px; margin-bottom:8px; font-size:0.95em;">Green Infrastructure</span>
+  <span style="display:inline-block; background:#eef3ef; padding:3px 14px; border-radius:18px; margin-right:8px; margin-bottom:8px; font-size:0.95em;">Urban Sustainability</span>
   <span style="display:inline-block; background:#eef3ef; padding:3px 14px; border-radius:18px; margin-right:8px; margin-bottom:8px; font-size:0.95em;">Policy Evaluation</span>
   <span style="display:inline-block; background:#eef3ef; padding:3px 14px; border-radius:18px; margin-right:8px; margin-bottom:8px; font-size:0.95em;">Environmental Governance</span>
 </p>
