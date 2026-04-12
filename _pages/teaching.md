@@ -9,7 +9,7 @@ author_profile: true
 
 - International Public Governance
 - Research Method for Public Policy
-- Reading Social Science Classics
+- Reading Social Science Classics (*past*)
 - 1st Year Seminar
 
 
