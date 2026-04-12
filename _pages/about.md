@@ -11,7 +11,7 @@ The Sustainability and Spatial Policy Lab conducts research on environmental pol
 
 Current research topics include green infrastructure, flood resilience, urban environmental governance, environmental Kuznets curve analysis, and the application of quantitative and spatial methods to environmental and public policy.
 
-<!-- past 
+<!-- past 이전 홈페이지 설명
 The Sustainability and Spatial Policy Lab conducts research on environmental policy, sustainability, climate resilience, and spatial policy analysis. Current research topics include green infrastructure, flood resilience, urban environmental governance, environmental Kuznets curve analysis, and the application of quantitative and spatial methods to public policy.
 Prof. Yoomi Kim is an Associate Professor in the Department of Public Administration at Ewha Womans University. Her research focuses on international administration, environmental policy, sustainable development, and policy evaluation. She actively integrates spatial analysis, big-data analytics, and other methodological approaches to advance interdisciplinary research.
 She maintains ongoing international collaborations with scholars in Japan, the United States, China, and other countries through joint research and global projects. Her work has appeared in leading domestic and international journals, including *Global Environmental Politics*, *The Annals of Regional Science*, and *Stochastic Environmental Research and Risk Assessment*.-->
@@ -72,7 +72,7 @@ She maintains ongoing international collaborations with scholars in Japan, the U
 }
 </style>
 
-<!-- past 
+<!-- past 여기서부터 페이지 링크 달 경우에 대한 예시
 <ul class="news-list">
   <li>
     <span class="news-badge">NEW</span>
