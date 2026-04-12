@@ -88,7 +88,6 @@ author_profile: true
 
 ## Alumni
 
-Information on alumni will be added soon.
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/Kim.jpg" alt="Joohee Kim" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
