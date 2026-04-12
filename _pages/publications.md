@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## ARTICLES (publised)
+## Articles (*publised*)
 
 - "The Role of Green Infrastructure in Enhancing Flood Resilience: A Spatial Perspective." Environmental Management, 2026. *Accepted.* (Corresponding author) (English / SCIE)
 - "Performance and Determinants of Municipal Governments’ Payments for Ecosystem Services Contracts / 지방정부 생태계서비스지불제계약의 성과와 영향요인 분석."The Korean Journal of Local Government Studies / 지방정부연구. 29(4):49-73. 2026. (Corresponding author) (Korean / KCI)
@@ -40,7 +40,7 @@ author_profile: true
 - “The Impact of Creative Industries and Workers on Urban Employment Competitiveness / 도시의 창조적 산업과 인력이 고용경쟁력에 미치는 영향.” Korean Policy Studies Review / 한국정책학회보. 18(4): 321–443. 2009 (First author). (Korean / KCI)
 
 
-## ARTICLES (in progress)
+## Articles (*in progress*)
 - “The environmental performance of Seoul’s public bike sharing system” *R&R*
 - “Revisiting the Environmental Kuznets Curve Hypothesis for Municipal Solid Waste” *under review*
 - "Effectiveness of Nagoya Protocol" *under review*
@@ -51,7 +51,7 @@ author_profile: true
 - "Ecosystem Provisioning Services and the Load Capacity Curve Hypothesis" *Writing*
 
 
-## BOOK CHAPTER
+## Book Chapters
 - “Are microfinance institutions in South-East Asia pursuing objectives of greening the environment?” In Climate Change Mitigation and Sustainable Development (pp.43–59) Routledge. 2020. (Co-author). (English)
 - “The Effectiveness of International Environmental Agreements and Institutions for Environmental Cooperation in East Asia.” In Environmental Governance in Asia (pp. 187–211). Keisoshobo. 2013. (First author). (Japanese)
 
