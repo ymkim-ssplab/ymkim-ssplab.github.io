@@ -28,7 +28,7 @@ author_profile: true
     </p>
 
     <p>
-    <strong>Research Interests:</strong> Climate Policy, Environmental Governance, Spatial Analysis
+    Research Interests: Climate Policy, Environmental Governance, Spatial Analysis
     </p>
   </div>
 </div>
