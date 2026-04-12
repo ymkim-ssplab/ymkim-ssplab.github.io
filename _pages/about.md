@@ -99,6 +99,11 @@ She maintains ongoing international collaborations with scholars in Japan, the U
     Paper published in <em>journal The Korean Journal of Local Government Studies (지방정부연구)</em> (KCI), with Kayeone Nam as first author
   </li>
 
+     <li>
+    <span class="news-date">Feb. 2026.</span>
+    Paper published in <em>Asian Journal of Water, Environment and Pollution</em> (SCOPUS), with Mihyeon Yu as first author
+  </li>
+
 <br>
 
 <p align="center">
