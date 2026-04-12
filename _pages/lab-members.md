@@ -23,7 +23,7 @@ author_profile: true
 ## Graduate Students
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/Han.jpg" alt="Jinhee Han" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <img src="/images/han.png" alt="Jinhee Han" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 0;">Jinhee Han</h3>
     <p><strong>Ph.D. Student</strong></p>
@@ -39,7 +39,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/Yu.jpg" alt="Mihyeon Yu" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <img src="/images/yu.png" alt="Mihyeon Yu" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 0;">Mihyeon Yu</h3>
     <p><strong>Ph.D. Student</strong></p>
@@ -55,7 +55,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/Nam.jpg" alt="Kayeone Nam" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <img src="/images/nam.png" alt="Kayeone Nam" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 0;">Kayeone Nam</h3>
     <p><strong>M.A. Student</strong></p>
@@ -71,7 +71,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/Kang.jpg" alt="Songyeon Kang" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <img src="/images/kang.png" alt="Songyeon Kang" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 0;">Songyeon Kang</h3>
     <p><strong>M.A. Student</strong></p>
