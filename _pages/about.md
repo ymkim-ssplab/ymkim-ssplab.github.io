@@ -96,7 +96,7 @@ She maintains ongoing international collaborations with scholars in Japan, the U
 
    <li>
     <span class="news-date">Feb. 2026.</span>
-    Paper published in <em>journal The Korean Journal of Local Government Studies(지방정부연구)<em> (KCI), with Kayeone Nam as first author
+    Paper published in <em>journal The Korean Journal of Local Government Studies (지방정부연구)</em> (KCI), with Kayeone Nam as first author
   </li>
 
 <br>
