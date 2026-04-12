@@ -7,14 +7,12 @@ author_profile: true
 ## Director
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/profile.png" alt="Yoomi Kim" style="width: 140px; height: 140px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
-  <div>
+
     <h3 style="margin-top: 0;">Yoomi Kim</h3>
     <p><strong>Associate Professor</strong><br>
     Department of Public Administration<br>
     Ewha Womans University</p>
      
-  </div>
 </div>
 
 ## Graduate Students
