@@ -23,9 +23,9 @@ author_profile: true
 ## Graduate Students
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/student1.jpg" alt="Student Name" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <img src="/images/student1.jpg" alt="Jinhee Han" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
-    <h3 style="margin-top: 0;">Student Name</h3>
+    <h3 style="margin-top: 0;">Jinhee Han</h3>
     <p><strong>Ph.D. Student</strong></p>
 
     <p>
@@ -39,9 +39,9 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/student2.jpg" alt="Student Name" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <img src="/images/student2.jpg" alt="Mihyeon Yu" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
-    <h3 style="margin-top: 0;">Student Name</h3>
+    <h3 style="margin-top: 0;">Mihyeon Yu</h3>
     <p><strong>M.A. Student</strong></p>
 
     <p>
@@ -55,9 +55,9 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/student2.jpg" alt="Student Name" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <img src="/images/student2.jpg" alt="Kayeone Nam" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
-    <h3 style="margin-top: 0;">Student Name</h3>
+    <h3 style="margin-top: 0;">Kayeone Nam</h3>
     <p><strong>M.A. Student</strong></p>
 
     <p>
@@ -71,9 +71,9 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/student2.jpg" alt="Student Name" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <img src="/images/student2.jpg" alt="Songyeon Kang" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
-    <h3 style="margin-top: 0;">Student Name</h3>
+    <h3 style="margin-top: 0;">Songyeon Kang</h3>
     <p><strong>M.A. Student</strong></p>
 
     <p>
@@ -91,9 +91,9 @@ author_profile: true
 
 Information on alumni will be added soon.
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/student2.jpg" alt="Student Name" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <img src="/images/student2.jpg" alt="Joohee Kim" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
-    <h3 style="margin-top: 0;">Student Name</h3>
+    <h3 style="margin-top: 0;">Joohee Kim</h3>
     <p><strong>M.A. Student</strong></p>
 
     <p>
@@ -107,9 +107,9 @@ Information on alumni will be added soon.
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/student2.jpg" alt="Student Name" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <img src="/images/student2.jpg" alt="Yan Ling Kelly Chau" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
-    <h3 style="margin-top: 0;">Student Name</h3>
+    <h3 style="margin-top: 0;">Yan Ling Kelly Chau</h3>
     <p><strong>M.A. Student</strong></p>
 
     <p>
@@ -123,9 +123,9 @@ Information on alumni will be added soon.
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/student2.jpg" alt="Student Name" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <img src="/images/student2.jpg" alt="Jingwen Li" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
-    <h3 style="margin-top: 0;">Student Name</h3>
+    <h3 style="margin-top: 0;">Jingwen Li</h3>
     <p><strong>M.A. Student</strong></p>
 
     <p>
