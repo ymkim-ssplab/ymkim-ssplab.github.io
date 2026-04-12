@@ -22,8 +22,8 @@ author_profile: true
   <div>
     <h3 style="margin-top: 0;">Jinhee Han</h3>
     <p><strong>Ph.D. Student (D3)</strong><br>
-    M.A. in Public Administration, Ewha Womans University</p>
-    <p>Joined SSPL in 2022</p>
+    M.A. in Public Administration, Ewha Womans University<br>
+    Joined SSPL in 2022</p>
 
     <p>
     Student Name is interested in climate change policy, environmental governance, and spatial inequality.
@@ -38,8 +38,8 @@ author_profile: true
   <div>
     <h3 style="margin-top: 0;">Mihyeon Yu</h3>
     <p><strong>Ph.D. Student (D2)</strong><br>
-    M.A. in Public Administration, Ewha Womans University</p>
-    <p>Joined SSPL in 2021</p>
+    M.A. in Public Administration, Ewha Womans University<br>
+    Joined SSPL in 2021</p>
 
     <p>
     Student Name studies sustainability, urban resilience, and public policy evaluation.
