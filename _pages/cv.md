@@ -18,7 +18,7 @@ E-mail: kimym@ewha.ac.kr
 Phone: +82-2-3277-4030
 Links:
 - [Ewha Womans University (Korean)](https://www.ewha.ac.kr) / [Ewha Womans University (English)](https://www.ewha.ac.kr/ewhaen/index.do)
-- [Department of Public Administration](https://cmsfox.ewha.ac.kr/pubweb/index.do)
+- [Department of Public Administration (Korean, Automatic translation available)](https://cmsfox.ewha.ac.kr/pubweb/index.do)
 
 
 Education
