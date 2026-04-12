@@ -20,13 +20,14 @@ She maintains ongoing international collaborations with scholars in Japan, the U
   <span style="display:inline-block; background:#eef3ef; padding:6px 12px; border-radius:20px; margin-right:8px; margin-bottom:8px;">Environmental Policy</span>
   <span style="display:inline-block; background:#eef3ef; padding:6px 12px; border-radius:20px; margin-right:8px; margin-bottom:8px;">Sustainable Development</span>
   <span style="display:inline-block; background:#eef3ef; padding:6px 12px; border-radius:20px; margin-right:8px; margin-bottom:8px;">Climate Resilience</span>
-  <span style="display:inline-block; background:#eef3ef; padding:6px 12px; border-radius:20px; margin-bottom:8px;">International Environmental agreement</span>
+  <span style="display:inline-block; background:#eef3ef; padding:6px 12px; border-radius:20px; margin-bottom:8px;">International agreement</span>
 </p>
 
 <p style="line-height: 2.8;">
   <span style="display:inline-block; background:#eef3ef; padding:6px 12px; border-radius:20px; margin-right:8px; margin-bottom:8px;">Spatial Econometrics</span>
   <span style="display:inline-block; background:#eef3ef; padding:6px 12px; border-radius:20px; margin-right:8px; margin-bottom:8px;">Green Infrastructure</span>
   <span style="display:inline-block; background:#eef3ef; padding:6px 12px; border-radius:20px; margin-right:8px; margin-bottom:8px;">Policy Evaluation</span>
+    <span style="display:inline-block; background:#eef3ef; padding:6px 12px; border-radius:20px; margin-right:8px; margin-bottom:8px;">Environmental Governance</span>
 </p>
 
 ## Latest News
