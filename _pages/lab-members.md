@@ -21,13 +21,12 @@ author_profile: true
   <img src="/images/han.png" alt="Jinhee Han" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 0;">Jinhee Han</h3>
-    <p><strong>Ph.D. Student</strong></p>
+    <p><strong>Ph.D. Student</strong><br>
+    M.A. in Public Administration, Ewha Womans University</p>
 
     <p>
     Student Name is interested in climate change policy, environmental governance, and spatial inequality.
-    </p>
-
-    <p>
+    <br>
     Research Interests: Climate Policy, Environmental Governance, Spatial Analysis
     </p>
   </div>
@@ -37,13 +36,12 @@ author_profile: true
   <img src="/images/yu.png" alt="Mihyeon Yu" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 0;">Mihyeon Yu</h3>
-    <p><strong>Ph.D. Student</strong></p>
+    <p><strong>Ph.D. Student</strong><br>
+    M.A. in Public Administration, Ewha Womans University</p>
 
     <p>
     Student Name studies sustainability, urban resilience, and public policy evaluation.
-    </p>
-
-    <p>
+   <br>
     Research Interests: Sustainability, Urban Resilience, Policy Evaluation
     </p>
   </div>
@@ -57,9 +55,7 @@ author_profile: true
 
     <p>
     Student Name studies sustainability, urban resilience, and public policy evaluation.
-    </p>
-
-    <p>
+   <br>
     Research Interests: Sustainability, Urban Resilience, Policy Evaluation
     </p>
   </div>
@@ -73,9 +69,7 @@ author_profile: true
 
     <p>
     Student Name studies sustainability, urban resilience, and public policy evaluation.
-    </p>
-
-    <p>
+  <br>
     Research Interests: Sustainability, Urban Resilience, Policy Evaluation
     </p>
   </div>
