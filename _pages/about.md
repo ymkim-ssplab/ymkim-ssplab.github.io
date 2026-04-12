@@ -32,7 +32,11 @@ She maintains ongoing international collaborations with scholars in Japan, the U
 
 ## Latest News
 
-- April 2026: Paper accepted in *Environmental Management* (SCIE), with Han Jinhee as first author and Yoomi Kim as corresponding author
+<ul style="list-style:none; padding-left:0;">
+  <li style="margin-bottom:12px;">
+    <span style="display:inline-block; background:#dcefdc; color:#2f6b3c; font-size:0.75em; font-weight:600; padding:2px 8px; border-radius:10px; margin-right:8px;">NEW</span>
+   - April 2026: Paper accepted in <em>Environmental Management</em> (SCIE), with Han Jinhee as first author and Yoomi Kim as corresponding author
+  </li>
 - March 2026: Invited talk at the Public Research Seminar of the Research Center for Sustainability and Environment, Shiga University, Japan <br>  “Evidence-Based Research on Environmental Policy for Resilient Cities”
 
 <br>
