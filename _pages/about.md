@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<br>
 The Sustainability and Spatial Policy Lab conducts research on environmental policy, sustainability, climate resilience, and spatial policy analysis.
 
 Current research topics include green infrastructure, flood resilience, urban environmental governance, environmental Kuznets curve analysis, and the application of quantitative and spatial methods to public policy.
