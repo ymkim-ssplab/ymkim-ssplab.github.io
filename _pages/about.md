@@ -75,7 +75,7 @@ She maintains ongoing international collaborations with scholars in Japan, the U
 <ul class="news-list">
   <li>
     <span class="news-badge">NEW</span>
-    <a href="/publications/environmental-management-paper/" class="news-link">
+    <a href="/news-and-updates/" class="news-link">
       <span class="news-date">April 2026.</span>
       Paper accepted in <em>Environmental Management</em> (SCIE), with Han Jinhee as first author
     </a>
