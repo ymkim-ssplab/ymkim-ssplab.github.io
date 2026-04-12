@@ -41,14 +41,14 @@ author_profile: true
 
 
 ## ARTICLES (in progress)
-- “The environmental performance of Seoul’s public bike sharing system” under review
-- “Revisiting the Environmental Kuznets Curve Hypothesis for Municipal Solid Waste” under review
-- "Effectiveness of Nagoya Protocol" under review
-- "Policy Discourse on Semi-basement Housing Flooding" under review
-- “Microfinance Penetration and Life Expectancy” under review
-- "Risks in International GHG Mitigation Cooperation under the Paris Agreement" Writing
-- "ICT and Environmental Kuznets Curve Hypothesis"
-- "Ecosystem Provisioning Services and the Load Capacity Curve Hypothesis"
+- “The environmental performance of Seoul’s public bike sharing system” *R&R*
+- “Revisiting the Environmental Kuznets Curve Hypothesis for Municipal Solid Waste” *under review*
+- "Effectiveness of Nagoya Protocol" *under review*
+- "Policy Discourse on Semi-basement Housing Flooding" *under review*
+- “Microfinance Penetration and Life Expectancy” *under review*
+- "Risks in International GHG Mitigation Cooperation under the Paris Agreement" *Writing*
+- "ICT and Environmental Kuznets Curve Hypothesis" *Writing*
+- "Ecosystem Provisioning Services and the Load Capacity Curve Hypothesis" *Writing*
 
 
 ## BOOK CHAPTER
