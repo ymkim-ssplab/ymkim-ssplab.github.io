@@ -40,7 +40,6 @@ Service and leadership
 * Korea Association for Policy Studies (KAPS), Member
 * Korean Society of Climate Change Research (KSCCR), Member
 * Korea Environmental Policy and Administration Society (KEPAS), Member
-
 * Ewha Journal of Social Science, Editorial board. Mar. 2025–Present
 * International Review of Public Administration (IRPA), Associate Editor, 2022–Present
 * Korean Association for Public Administration (KAPA), External Affairs Committee, 2022
