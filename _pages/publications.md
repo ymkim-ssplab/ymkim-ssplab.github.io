@@ -40,7 +40,7 @@ author_profile: true
 - “The Impact of Creative Industries and Workers on Urban Employment Competitiveness / 도시의 창조적 산업과 인력이 고용경쟁력에 미치는 영향.” Korean Policy Studies Review / 한국정책학회보. 18(4): 321–443. 2009 (First author). (Korean / KCI)
 
 
-## Articles (*in progress*)
+<h2>Articles <span style="font-weight: normal; font-style: italic;">(in progress)</span></h2>
 - “The environmental performance of Seoul’s public bike sharing system” *R&R*
 - “Revisiting the Environmental Kuznets Curve Hypothesis for Municipal Solid Waste” *under review*
 - "Effectiveness of Nagoya Protocol" *under review*
