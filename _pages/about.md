@@ -62,7 +62,7 @@ She maintains ongoing international collaborations with scholars in Japan, the U
   font-weight: 600;
   padding: 2px 8px;
   border-radius: 10px;
-  margin-right: 10px;
+  margin-right: 4px;
   vertical-align: middle;
 }
 
