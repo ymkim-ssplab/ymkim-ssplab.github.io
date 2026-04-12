@@ -16,7 +16,7 @@ Associate Professor
 Department of Public Administration  
 Ewha Womans University  
 
-Address: #408 POSCO, Ewha Womans University, 52, Ewhayeodae-gil, Seodaemun-gu, Seoul 03760 South Korea  
+Address: #408 POSCO Bldg. Ewha Womans University, 52, Ewhayeodae-gil, Seodaemun-gu, Seoul 03760 South Korea  
 E-mail: kimym@ewha.ac.kr
 Phone: +82-2-3277-4030
 Links:
