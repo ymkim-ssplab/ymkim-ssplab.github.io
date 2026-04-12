@@ -95,12 +95,12 @@ She maintains ongoing international collaborations with scholars in Japan, the U
     Invited talk at the Public Research Seminar of the Research Center for Sustainability and Environment, Shiga University, Japan. “Evidence-Based Research on Environmental Policy for Resilient Cities”
   </li>
 
-   <li>
+  <li>
     <span class="news-date">Feb. 2026.</span>
     Paper published in <em>journal The Korean Journal of Local Government Studies (지방정부연구)</em> (KCI), with Kayeone Nam as first author
   </li>
 
-     <li>
+  <li>
     <span class="news-date">Feb. 2026.</span>
     Paper published in <em>Asian Journal of Water, Environment and Pollution</em> (SCOPUS), with Mihyeon Yu as first author
   </li>
