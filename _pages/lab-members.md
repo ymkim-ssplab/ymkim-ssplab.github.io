@@ -21,8 +21,9 @@ author_profile: true
   <img src="/images/han.png" alt="Jinhee Han" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 0;">Jinhee Han</h3>
-    <p><strong>Ph.D. Student</strong><br>
+    <p><strong>Ph.D. Student (D3)</strong><br>
     M.A. in Public Administration, Ewha Womans University</p>
+    <p>Joined SSPL in 2022</p>
 
     <p>
     Student Name is interested in climate change policy, environmental governance, and spatial inequality.
@@ -36,8 +37,9 @@ author_profile: true
   <img src="/images/yu.png" alt="Mihyeon Yu" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 0;">Mihyeon Yu</h3>
-    <p><strong>Ph.D. Student</strong><br>
+    <p><strong>Ph.D. Student (D2)</strong><br>
     M.A. in Public Administration, Ewha Womans University</p>
+    <p>Joined SSPL in 2021</p>
 
     <p>
     Student Name studies sustainability, urban resilience, and public policy evaluation.
@@ -51,7 +53,7 @@ author_profile: true
   <img src="/images/nam.png" alt="Kayeone Nam" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 0;">Kayeone Nam</h3>
-    <p><strong>M.A. Student</strong></p>
+    <p><strong>M.A. Student (M2)</strong></p>
 
     <p>
     Student Name studies sustainability, urban resilience, and public policy evaluation.
@@ -65,7 +67,7 @@ author_profile: true
   <img src="/images/kang.png" alt="Songyeon Kang" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 0;">Songyeon Kang</h3>
-    <p><strong>M.A. Student</strong></p>
+    <p><strong>M.A. Student (M2)</strong></p>
 
     <p>
     Student Name studies sustainability, urban resilience, and public policy evaluation.
