@@ -1,6 +1,6 @@
 ---
 title: "Lab Members"
-permalink: /lab-members/
+permalink: /lab-members_past/
 author_profile: true
 ---
 
