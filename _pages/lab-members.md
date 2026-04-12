@@ -6,13 +6,13 @@ author_profile: true
 
 ## Director
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-
-    <h3 style="margin-top: 0;">Yoomi Kim</h3>
-    <p><strong>Associate Professor</strong><br>
+<div style="margin-bottom: 30px;">
+  <h3 style="margin-bottom: 10px;">Yoomi Kim</h3>
+  <p>
+    <strong>Associate Professor</strong><br>
     Department of Public Administration<br>
-    Ewha Womans University</p>
-     
+    Ewha Womans University
+  </p>
 </div>
 
 ## Graduate Students
