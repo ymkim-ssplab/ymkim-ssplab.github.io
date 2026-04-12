@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to SSPL"
+title: "Welcome to the Sustainability & Spatial Policy Lab"
 author_profile: true
 redirect_from: 
   - /about/
