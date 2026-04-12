@@ -11,15 +11,15 @@ main:
   - title: "Home"
     url: /
 
+  - title: "Research"
+    url: /research/
+
   - title: "Publications"
     url: /publications/
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Research"
-    url: /research/
-        
+            
   - title: "Lab Members"
     url: /lab-members/
     
