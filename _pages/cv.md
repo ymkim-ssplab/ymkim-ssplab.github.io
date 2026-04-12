@@ -19,9 +19,9 @@ Address: #408 POSCO, Ewha Womans University, 52, Ewhayeodae-gil, Seodaemun-gu, S
 E-mail: kimym@ewha.ac.kr / kimyoomio@gmail.com			   
 Phone: +82-2-3277-4030
 Links:
-- [Ewha Womans University Korean](https://www.ewha.ac.kr)
-- [Ewha Womans University English](https://www.ewha.ac.kr/ewhaen/index.do)
-- [Department of Public Administration]([https://admin.ewha.ac.kr](https://cmsfox.ewha.ac.kr/pubweb/index.do))
+- [Ewha Womans University (Korean)](https://www.ewha.ac.kr)
+- [Ewha Womans University (English)](https://www.ewha.ac.kr/ewhaen/index.do)
+- [Department of Public Administration](https://admin.ewha.ac.kr](https://cmsfox.ewha.ac.kr/pubweb/index.do)
 
 
 Education
