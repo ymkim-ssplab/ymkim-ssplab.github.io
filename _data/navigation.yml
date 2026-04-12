@@ -19,6 +19,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Media"
+    url: /media/
             
   - title: "Lab Members"
     url: /lab-members/
