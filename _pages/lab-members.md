@@ -13,8 +13,7 @@ author_profile: true
     <p><strong>Associate Professor</strong><br>
     Department of Public Administration<br>
     Ewha Womans University</p>
- 
-    </p>
+     
   </div>
 </div>
 
