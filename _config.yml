@@ -26,8 +26,9 @@ author:
   avatar           : "profile.JPG"
   name             : "Yoomi Kim"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor of Department of Public Administration, Ewha Womans University"
+  bio              : "Associate Professor of Department of Public Administration"
   location         : "Seoul, South Korea"
+  employer         : "Ewha Womans University"
   uri              : https://www.ewha.ac.kr/ewhaen/professor/info.do?mode=view&pId=Ue2Q3ja4I5vRBFg5aG19Sw%3D%3D
   email            : "kimym@ewha.ac.kr" 
 
