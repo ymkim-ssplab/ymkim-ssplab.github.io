@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to the Sustainability & Spatial Policy Lab"
+title: "Welcome to SSPL"
 author_profile: true
 redirect_from: 
   - /about/
@@ -32,5 +32,5 @@ She maintains ongoing international collaborations with scholars in Japan, the U
 <br>
 
 <p align="center">
-  <img src="/images/logo.png" alt="Sustainability and Spatial Policy Lab logo" width="250">
+  <img src="/images/logo.png" alt="Sustainability and Spatial Policy Lab logo" width="220">
 </p>
