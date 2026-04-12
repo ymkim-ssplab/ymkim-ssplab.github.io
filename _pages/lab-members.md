@@ -109,10 +109,7 @@ author_profile: true
     Currently working at the Bank of Korea office in Hong Kong.
     </p>
 
-    <p>
-    <strong>Research Interests:</strong> Sustainability, Urban Resilience, Policy Evaluation
-    </p>
-  </div>
+   </div>
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
@@ -123,7 +120,6 @@ author_profile: true
     <p>
     After returning to her home country, China, she has been actively pursuing her career.
     </p>
-   
-    </p>
+     
   </div>
 </div>
