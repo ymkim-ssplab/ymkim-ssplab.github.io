@@ -47,10 +47,10 @@ author_profile: true
 - "Effectiveness of Nagoya Protocol" *under review*
 - "Policy Discourse on Semi-basement Housing Flooding" *under review*
 - “Microfinance Penetration and Life Expectancy” *under review*
-- "Evaluating the Effectiveness of the Paris Agreement" *Writing*
-- "Risks in International GHG Mitigation Cooperation under the Paris Agreement" *Writing*
-- "ICT and Environmental Kuznets Curve Hypothesis" *Writing*
-- "Ecosystem Provisioning Services and the Load Capacity Curve Hypothesis" *Writing*
+- "Evaluating the Effectiveness of the Paris Agreement" *writing*
+- "Risks in International GHG Mitigation Cooperation under the Paris Agreement" *writing*
+- "ICT and Environmental Kuznets Curve Hypothesis" *writing*
+- "Ecosystem Provisioning Services and the Load Capacity Curve Hypothesis" *writing*
 
 
 ## Book Chapters
