@@ -16,7 +16,10 @@ author_profile: true
 ## Current Topics
 
 - Green infrastructure and flood resilience
+- Policy evaluation using spatial econometrics
 - Environmental Kuznets Curve analysis
 - ICT and carbon emissions
 - Climate risk and spatial inequality
-- Policy evaluation using spatial econometrics
+
+
+
