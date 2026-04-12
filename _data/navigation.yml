@@ -28,6 +28,10 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "News & Updates"
+    url: /news & updates/
+    
     
   # - title: "CV"
   #   url: /cv-json/
