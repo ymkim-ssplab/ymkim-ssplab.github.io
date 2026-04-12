@@ -14,7 +14,7 @@ Department of Public Administration
 Ewha Womans University  
 
 Address: #408 POSCO Bldg. Ewha Womans University, 52, Ewhayeodae-gil, Seodaemun-gu, Seoul 03760 South Korea  
-E-mail: kimym@ewha.ac.kr
+E-mail: kimym@ewha.ac.kr  <br>
 Phone: +82-2-3277-4030
 Links:
 - [Ewha Womans University (Korean)](https://www.ewha.ac.kr) / [Ewha Womans University (English)](https://www.ewha.ac.kr/ewhaen/index.do)
