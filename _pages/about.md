@@ -33,6 +33,17 @@ She maintains ongoing international collaborations with scholars in Japan, the U
 ## Latest News
 
 <style>
+.news-list {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 10px;
+}
+
+.news-list li {
+  margin-bottom: 18px;
+  line-height: 1.7;
+}
+
 .news-link {
   color: #444;
   text-decoration: none;
@@ -42,17 +53,40 @@ She maintains ongoing international collaborations with scholars in Japan, the U
 .news-link:hover {
   color: #2f6b3c;
 }
+
+.news-badge {
+  display: inline-block;
+  background: #dcefdc;
+  color: #2f6b3c;
+  font-size: 0.72em;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 10px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+.news-date {
+  font-weight: 600;
+  color: #555;
+}
 </style>
 
-<ul style="list-style:none; padding-left:0;">
-  <li style="margin-bottom:12px;">
-    <span style="display:inline-block; background:#dcefdc; color:#2f6b3c; font-size:0.75em; font-weight:600; padding:2px 8px; border-radius:10px; margin-right:8px;">NEW</span>
+<ul class="news-list">
+  <li>
+    <span class="news-badge">NEW</span>
     <a href="/publications/environmental-management-paper/" class="news-link">
-   - April 2026: Paper accepted in *Environmental Management* (SCIE), with Han Jinhee as first author and Yoomi Kim as corresponding author
+      <span class="news-date">April 2026.</span>
+      Paper accepted in <em>Environmental Management</em> (SCIE), with Han Jinhee as first author and Yoomi Kim as corresponding author
+    </a>
   </li>
- </ul> 
- 
-- March 2026: Invited talk at the Public Research Seminar of the Research Center for Sustainability and Environment, Shiga University, Japan <br>  “Evidence-Based Research on Environmental Policy for Resilient Cities”
+
+  <li>
+    <span class="news-date">March 2026.</span>
+    Invited talk at the Public Research Seminar of the Research Center for Sustainability and Environment, Shiga University, Japan<br>
+    “Evidence-Based Research on Environmental Policy for Resilient Cities”
+  </li>
+</ul>
 
 <br>
 <br>
