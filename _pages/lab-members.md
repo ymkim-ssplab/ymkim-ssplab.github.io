@@ -91,8 +91,7 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/profile.png" alt="Joohee Kim" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
-    <h3 style="margin-top: 0;">Joohee Kim</h3>
-    <p><strong>M.A. Student</strong></p>
+    <h3 style="margin-top: 0;">Joohee Kim M.A.</h3>
 
     <p>
     After completing her master's degree, she entered the Ph.D. program in Communication and Media at the University of Michigan.
@@ -104,11 +103,10 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/profile.png" alt="Yan Ling Kelly Chau" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
-    <h3 style="margin-top: 0;">Yan Ling Kelly Chau</h3>
-    <p><strong>M.A. Student</strong></p>
+    <h3 style="margin-top: 0;">Yan Ling Kelly Chau M.A.</h3>
 
     <p>
-    Student Name studies sustainability, urban resilience, and public policy evaluation.
+    Currently working at the Bank of Korea office in Hong Kong.
     </p>
 
     <p>
@@ -120,15 +118,12 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/profile.png" alt="Jingwen Li" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
-    <h3 style="margin-top: 0;">Jingwen Li</h3>
-    <p><strong>M.A. Student</strong></p>
-
+    <h3 style="margin-top: 0;">Jingwen Li M.A.</h3>
+    
     <p>
-    Student Name studies sustainability, urban resilience, and public policy evaluation.
+    After returning to her home country, China, she has been actively pursuing her career.
     </p>
-
-    <p>
-    <strong>Research Interests:</strong> Sustainability, Urban Resilience, Policy Evaluation
+   
     </p>
   </div>
 </div>
