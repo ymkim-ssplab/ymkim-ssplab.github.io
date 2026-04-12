@@ -87,15 +87,13 @@ She maintains ongoing international collaborations with scholars in Japan, the U
     <span class="news-badge">NEW</span>
     <span class="news-date">April 2026.</span>
       Paper accepted in <em>Environmental Management</em> (SCIE), with Han Jinhee as first author
-    </a>
-  </li>
+   </li>
 
 
   <li>
     <span class="news-date">March 2026.</span>
     Invited talk at the Public Research Seminar of the Research Center for Sustainability and Environment, Shiga University, Japan. “Evidence-Based Research on Environmental Policy for Resilient Cities”
   </li>
-</ul>
 
 <br>
 <br>
