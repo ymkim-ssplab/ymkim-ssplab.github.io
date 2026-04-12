@@ -11,28 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in International Studies, Waseda University, 2014
+* M.A. in Public Administration, Ewha Womans University, 2009
+* B.A. in Public Administration (Minor: Economics, East Asia Studies), Ewha Womans University, 2007
 
-Work experience
+
+Academic Appointments
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Mar. 2023–Present	Department of Public Administration, Ewha Womans University. Associate Professor
+* Jun. 2023–Present	Center of SEBIS (Strategic Solutions for Environmental Blindspots in the Interest of Society), Ewha Womans University. Associate Professor
+* Jan. 2023–Present	Research Center for Sustainability and Environment, Shiga University. Visiting Researcher
+* Feb. 2023–Jan. 2025	Office of Admissions, Ewha Womans University. Associate Vice President
+* Aug. 2020–Jul.2022	Department of Public Administration, Ewha Womans University. Department Chair
+* Mar. 2018–Feb.2023	Department of Public Administration, Ewha Womans University. Assistant Professor
+* Feb. 2016–Mar. 2016	Center for Asia-Pacific Future Studies, Kyushu University. Visiting Research Fellow
+* Sep. 2015–Feb.2018	Jimmy Carter School of International Studies, Chonbuk National University. Affiliated Professor / Lecture
+* Apr. 2015–Mar. 2016	Research Unit for Global Resilience, The Institute of Asia-Pacific Studies (WIAPS), Waseda University. Research Member
+* Nov. 2014–Jan. 2018	Seoul National University Asia Center. Research Fellow 
+* Jun. 2014–Mar.2016	Center for Risk Research, Shiga University. Visiting Research Associate
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* East Asian Association of Environmental and Resource Economics (AAERE), Member
+* Korean Association for Public Administration (KAPA), Member
+* Korea Association for Policy Studies (KAPS), Member
+* Korean Society of Climate Change Research (KSCCR), Member
+* Korea Environmental Policy and Administration Society (KEPAS), Member
+
+* Ewha Journal of Social Science, Editorial board. Mar. 2025–Present
+* International Review of Public Administration (IRPA), Associate Editor, 2022–Present
+* Korean Association for Public Administration (KAPA), External Affairs Committee, 2022
+* Korea Association for Policy Studies (KAPS), General Affairs Committee, Chairperson, 2020
+
