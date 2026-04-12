@@ -90,6 +90,7 @@ She maintains ongoing international collaborations with scholars in Japan, the U
    </li>
 
   <li>
+    <span class="news-badge">NEW</span>
     <span class="news-date">Mar. 2026.</span>
     Invited talk at the Public Research Seminar of the Research Center for Sustainability and Environment, Shiga University, Japan. “Evidence-Based Research on Environmental Policy for Resilient Cities”
   </li>
