@@ -89,7 +89,7 @@ author_profile: true
 ## Alumni
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/Kim.jpg" alt="Joohee Kim" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <img src="/images/profile.png" alt="Joohee Kim" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 0;">Joohee Kim</h3>
     <p><strong>M.A. Student</strong></p>
@@ -105,7 +105,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/Chau.jpg" alt="Yan Ling Kelly Chau" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <img src="/images/profile.png" alt="Yan Ling Kelly Chau" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 0;">Yan Ling Kelly Chau</h3>
     <p><strong>M.A. Student</strong></p>
@@ -121,7 +121,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/Li.jpg" alt="Jingwen Li" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <img src="/images/profile.png" alt="Jingwen Li" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 0;">Jingwen Li</h3>
     <p><strong>M.A. Student</strong></p>
