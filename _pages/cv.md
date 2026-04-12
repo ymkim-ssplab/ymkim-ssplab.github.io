@@ -9,6 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+
+**Yoomi Kim**
+Associate Professor  
+Department of Public Administration  
+Ewha Womans University  
+
+Address: #408 POSCO, Ewha Womans University, 52, Ewhayeodae-gil, Seodaemun-gu, Seoul 03760 South Korea  
+E-mail: kimym@ewha.ac.kr / kimyoomio@gmail.com			   
+Phone: +82-2-3277-4030
+Links:
+- [Ewha Womans University Korean](https://www.ewha.ac.kr)
+- [Ewha Womans University English](https://www.ewha.ac.kr/ewhaen/index.do)
+- [Department of Public Administration]([https://admin.ewha.ac.kr](https://cmsfox.ewha.ac.kr/pubweb/index.do))
+
+
 Education
 ======
 * Ph.D. in International Studies, Waseda University, 2014
