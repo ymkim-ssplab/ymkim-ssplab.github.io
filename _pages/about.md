@@ -77,7 +77,7 @@ She maintains ongoing international collaborations with scholars in Japan, the U
   <li>
     <span class="news-badge">NEW</span>
     <a href="/news-and-updates/" class="news-link">
-      <span class="news-date">April 2026.</span>
+      <span class="news-date">Apr. 2026.</span>
       Paper accepted in <em>Environmental Management</em> (SCIE), with Han Jinhee as first author
     </a>
   </li>
@@ -85,14 +85,20 @@ She maintains ongoing international collaborations with scholars in Japan, the U
 
   <li>
     <span class="news-badge">NEW</span>
-    <span class="news-date">April 2026.</span>
+    <span class="news-date">Apr. 2026.</span>
       Paper accepted in <em>Environmental Management</em> (SCIE), with Han Jinhee as first author
    </li>
 
   <li>
-    <span class="news-date">March 2026.</span>
+    <span class="news-date">Mar. 2026.</span>
     Invited talk at the Public Research Seminar of the Research Center for Sustainability and Environment, Shiga University, Japan. “Evidence-Based Research on Environmental Policy for Resilient Cities”
   </li>
+
+   <li>
+    <span class="news-date">March 2026.</span>
+    Feb. 2026: Paper published in <em>journal The Korean Journal of Local Government Studies(지방정부연구)<em>, with Kayeone Nam as first author
+  </li>
+
 <br>
 
 <p align="center">
