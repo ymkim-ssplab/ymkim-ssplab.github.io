@@ -94,7 +94,6 @@ She maintains ongoing international collaborations with scholars in Japan, the U
     Invited talk at the Public Research Seminar of the Research Center for Sustainability and Environment, Shiga University, Japan. “Evidence-Based Research on Environmental Policy for Resilient Cities”
   </li>
 <br>
-<br>
 
 <p align="center">
   <img src="/images/logo.png" alt="Sustainability and Spatial Policy Lab logo" width="220">
