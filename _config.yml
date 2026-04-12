@@ -23,7 +23,7 @@ repository               : "ymkim-ssplab/ymkim-ssplab.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.JPG"
   name             : "Yoomi Kim"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor of Department of Public Administration, Ewha Womans University"
