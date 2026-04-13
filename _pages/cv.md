@@ -63,4 +63,5 @@ Academic Service and Leadership
 * Korea Association for Policy Studies (KAPS), Member
 * Korean Society of Climate Change Research (KSCCR), Member
 * Korea Environmental Policy and Administration Society (KEPAS), Member
+* Korean Association for Policy Analysis and Evaluation (KAPAE), Member
   
