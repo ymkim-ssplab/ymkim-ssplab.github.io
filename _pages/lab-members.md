@@ -119,7 +119,7 @@ author_profile: true
   <img src="/images/profile.png" alt="Joohee Kim" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 0;">Joohee Kim M.A.</h3><br>
-    <em>Graduated from SSPL in 2023</em></p>
+    <em>Graduated from SSPL in 2023</em>
 
     <p>
     Entered the Ph.D. program at the University of Michigan after completing her master’s degree.
@@ -132,7 +132,7 @@ author_profile: true
   <img src="/images/profile.png" alt="Yan Ling Kelly Chau" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 0;">Yan Ling Kelly Chau M.A.</h3><br>
-    <em>Graduated from SSPL in 2023</em></p>
+    <em>Graduated from SSPL in 2023</em>
 
     <p>
     Currently working at the Bank of Korea office in Hong Kong.
@@ -145,7 +145,7 @@ author_profile: true
   <img src="/images/profile.png" alt="Jingwen Li" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 0;">Jingwen Li M.A.</h3><br>
-    <em>Graduated from SSPL in 2024</em></p>
+    <em>Graduated from SSPL in 2024</em>
     
     <p>
     Returned to her home country, China, and has been actively pursuing her career.
