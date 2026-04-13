@@ -42,7 +42,7 @@ author_profile: true
   <img src="/images/han.png" alt="Jinhee Han" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 0;">Jinhee Han</h3>
-    <p><strong>Ph.D. Student (D3)</strong><br>
+    <p><span style="font-weight: 600;">Ph.D. Student (D3)</span><br>
     M.A. in Public Administration, Ewha Womans University<br>
     <em>Joined SSPL in 2022</em></p>
 
