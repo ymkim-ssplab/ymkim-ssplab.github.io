@@ -17,6 +17,24 @@ author_profile: true
 
 ## Graduate Students
 
+<style>
+.research-tags {
+  margin-top: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.research-tags span {
+  display: inline-block;
+  padding: 6px 12px;
+  border-radius: 16px;
+  background-color: #f1f3f5;
+  color: #555;
+  font-size: 0.9rem;
+}
+</style>
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/han.png" alt="Jinhee Han" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
@@ -45,26 +63,17 @@ author_profile: true
     Born and raised in the countryside, I am currently a Ph.D. student in Public Administration at Ewha Womans University, where I also earned my B.A. and M.A. degrees. I study the meanings and underlying structures behind social phenomena by defining and analyzing social problems. I aim to become a researcher who contributes to a better society by providing meaningful policy implications. In my spare time, I enjoy listening to music, watching baseball, and taking leisurely walks.
    <br>
     - Research Interests: Environment, Climate Change, Disaster Response, Policy Evaluation, Governance
+    
+    <div class="research-tags">
+  <span>Environment</span>
+  <span>Climate Change</span>
+  <span>Disaster Response</span>
+  <span>Policy Evaluation</span>
+  <span>Governance</span>
+</div>
+
     </p>
   
-<style>
-.research-tags {
-  margin-top: 12px;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-}
-
-.research-tags span {
-  display: inline-block;
-  padding: 6px 12px;
-  border-radius: 16px;
-  background-color: #f1f3f5;
-  color: #555;
-  font-size: 0.9rem;
-}
-</style>
-
   </div>
 </div>
 
