@@ -30,9 +30,9 @@ author_profile: true
   display: inline-block;
   padding: 5px 10px;
   border-radius: 14px;
-  background: #dcefdc;
+  background: #eef3ef;
   color: #2f6b3c;
-  font-size: 0.85rem;
+  font-size: 0.85em;
   font-weight: 500;
   white-space: nowrap;
 }
