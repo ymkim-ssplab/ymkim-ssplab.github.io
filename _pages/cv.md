@@ -43,7 +43,7 @@ Academic Appointments
 
 
 
-Service and leadership
+Academic Service and Leadership
 ======
 **Editorial / Committee / Leadership Roles**
 * Ewha Journal of Social Science, Editorial board. Mar. 2025–Present
@@ -58,7 +58,3 @@ Service and leadership
 * Korean Society of Climate Change Research (KSCCR), Member
 * Korea Environmental Policy and Administration Society (KEPAS), Member
   
-
-
-* 
-
