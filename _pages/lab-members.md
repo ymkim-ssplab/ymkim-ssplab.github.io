@@ -122,7 +122,7 @@ author_profile: true
     <em>Graduated from SSPL in 2023</em></p>
 
     <p>
-    After completing her master's degree, she entered the Ph.D. program in Communication and Media at the University of Michigan.
+    Entered the Ph.D. program at the University of Michigan after completing her master’s degree.
     </p>
    
   </div>
@@ -148,7 +148,7 @@ author_profile: true
     <em>Graduated from SSPL in 2024</em></p>
     
     <p>
-    After returning to her home country, China, she has been actively pursuing her career.
+    Returned to her home country, China, and has been actively pursuing her career.
     </p>
 
 
