@@ -20,7 +20,7 @@ She maintains ongoing international collaborations with scholars in Japan, the U
   <span style="display:inline-block; background:#eef3ef; padding:3px 14px; border-radius:18px; margin-right:8px; margin-bottom:8px; font-size:0.95em;">Environmental Policy</span>
   <span style="display:inline-block; background:#eef3ef; padding:3px 14px; border-radius:18px; margin-right:8px; margin-bottom:8px; font-size:0.95em;">Sustainable Development</span>
   <span style="display:inline-block; background:#eef3ef; padding:3px 14px; border-radius:18px; margin-right:8px; margin-bottom:8px; font-size:0.95em;">Climate Resilience</span>
-  <span style="display:inline-block; background:#eef3ef; padding:3px 14px; border-radius:18px; margin-bottom:8px; font-size:0.95em;">International Agreements</span>
+  <span style="display:inline-block; background:#eef3ef; padding:3px 14px; border-radius:18px; margin-bottom:8px; font-size:0.95em;">International Regimes</span>
 </p>
 
 <p style="line-height: 1.7; margin-bottom: 0;">
