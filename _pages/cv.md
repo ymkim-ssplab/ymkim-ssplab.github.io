@@ -45,13 +45,19 @@ Academic Appointments
 
 Academic Service and Leadership
 ======
-**Editorial / Committee / Leadership Roles**
+<div style="margin-left: 20px; font-weight: 700; margin-bottom: 8px;">
+  Editorial / Committee / Leadership Roles
+</div>
+
 * Ewha Journal of Social Science, Editorial board. Mar. 2025–Present
 * International Review of Public Administration (IRPA), Associate Editor, 2022–Present
 * Korean Association for Public Administration (KAPA), External Affairs Committee, 2022
 * Korea Association for Policy Studies (KAPS), General Affairs Committee, Chairperson, 2020
 
-**Academic memberships**
+<div style="margin-left: 20px; font-weight: 700; margin-bottom: 8px;">
+  Academic memberships
+</div>
+
 * East Asian Association of Environmental and Resource Economics (AAERE), Member
 * Korean Association for Public Administration (KAPA), Member
 * Korea Association for Policy Studies (KAPS), Member
