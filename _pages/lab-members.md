@@ -34,7 +34,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/nam.png" alt="Mihyeon Yu" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <img src="/images/yu.jpg" alt="Mihyeon Yu" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 0;">Mihyeon Yu</h3>
     <p><strong>Ph.D. Student (D2)</strong><br>
@@ -42,9 +42,9 @@ author_profile: true
     Joined SSPL in 2021</p>
 
     <p>
-    Student Name studies sustainability, urban resilience, and public policy evaluation.
+    Born and raised in the countryside, I am currently a Ph.D. student in Public Administration at Ewha Womans University, where I also earned my B.A. and M.A. degrees. I study the meanings and underlying structures behind social phenomena by defining and analyzing social problems. I aim to become a researcher who contributes to a better society by providing meaningful policy implications. In my spare time, I enjoy listening to music, watching baseball, and taking leisurely walks.
    <br>
-    Research Interests: Sustainability, Urban Resilience, Policy Evaluation
+    Research Interests: Environment, Climate Change, Disaster Response, Policy Evaluation, Governance
     </p>
   </div>
 </div>
