@@ -79,9 +79,9 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/nam.jpg" alt="Kayeone Nam" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <img src="/images/nam.jpg" alt="Kayeon Nam" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
-    <h3 style="margin-top: 0;">Kayeone Nam</h3>
+    <h3 style="margin-top: 0;">Kayeon Nam</h3>
     <p><span style="font-weight: 600;">M.A. Student (M2)</span><br>
     <em>Joined SSPL in 2025</em></p>
     
