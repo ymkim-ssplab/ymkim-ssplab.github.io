@@ -9,7 +9,7 @@ author_profile: true
 <div style="margin-bottom: 30px;">
   <h3 style="margin-bottom: 10px;">Yoomi Kim</h3>
   <p>
-    <strong>Associate Professor</strong><br>
+    <span style="font-weight: 600;">Associate Professor</span><br>
     Department of Public Administration<br>
     Ewha Womans University
   </p>
