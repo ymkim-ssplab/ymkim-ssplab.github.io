@@ -33,6 +33,7 @@ author_profile: true
   color: #555;
   font-size: 0.9rem;
 }
+      </style>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/han.png" alt="Jinhee Han" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
@@ -101,7 +102,7 @@ author_profile: true
     </p>
   </div>
 </div>
-    </style>
+
 
 ## Alumni
 
