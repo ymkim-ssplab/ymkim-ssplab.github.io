@@ -21,19 +21,22 @@ author_profile: true
 .research-tags {
   margin-top: 12px;
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   gap: 8px;
+  overflow-x: auto;
 }
 
 .research-tags span {
   display: inline-block;
-  padding: 6px 12px;
-  border-radius: 16px;
-  background-color: #f1f3f5;
-  color: #555;
-  font-size: 0.9rem;
+  padding: 5px 10px;
+  border-radius: 14px;
+  background: #dcefdc;
+  color: #2f6b3c;
+  font-size: 0.85rem;
+  font-weight: 500;
+  white-space: nowrap;
 }
-      </style>
+</style>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/han.png" alt="Jinhee Han" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
