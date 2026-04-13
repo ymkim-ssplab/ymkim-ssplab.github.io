@@ -59,11 +59,9 @@ author_profile: true
     <em>Joined SSPL in 2021</em></p>
 
     <p>
-    Born and raised in the countryside, I am currently a Ph.D. student in Public Administration at Ewha Womans University, where I also earned my B.A. and M.A. degrees. I study the meanings and underlying structures behind social phenomena by defining and analyzing social problems. I aim to become a researcher who contributes to a better society by providing meaningful policy implications. In my spare time, I enjoy listening to music, watching baseball, and taking leisurely walks.
-   <br>
-    - Research Interests: Environment, Climate Change, Disaster Response, Policy Evaluation, Governance
+    Born and raised in the countryside, I am currently a Ph.D. student in Public Administration at Ewha Womans University, where I also earned my B.A. and M.A. degrees. I study the meanings and underlying structures behind social phenomena by defining and analyzing social problems. I aim to become a researcher who contributes to a better society by providing meaningful policy implications. In my spare time, I enjoy listening to music, watching baseball, and taking leisurely walks.  
     
-    <div class="research-tags">
+  <div class="research-tags">
   <span>Environment</span>
   <span>Climate Change</span>
   <span>Disaster Response</span>
