@@ -92,7 +92,7 @@ author_profile: true
   <span>Environment</span>
   <span>Climate Change</span>
   <span>Sustainability</span>
-  <span>Technology Development</span>
+  <span>Technological Development</span>
 </div>
     </p>
   </div>
