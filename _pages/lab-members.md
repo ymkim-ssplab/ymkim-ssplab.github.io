@@ -51,6 +51,7 @@ author_profile: true
     
   <div class="research-tags">
   <span>Urban Infrastructure</span>
+  <span>Climate Change</span>
   <span>Adaptation Policy</span>
   <span>International Regimes</span>
   <span>GIS</span>
