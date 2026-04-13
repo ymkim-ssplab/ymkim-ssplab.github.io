@@ -39,19 +39,25 @@ author_profile: true
 </style>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/han.png" alt="Jinhee Han" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <img src="/images/han.jpg" alt="Jinhee Han" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 0;">Jinhee Han</h3>
     <p><span style="font-weight: 600;">Ph.D. Student (D3)</span><br>
     M.A. in Public Administration, Ewha Womans University<br>
     <em>Joined SSPL in 2022</em></p>
 
-    <p>
-    Student Name is interested in climate change policy, environmental governance, and spatial inequality.
-    <br>
-    Research Interests: Climate Policy, Environmental Governance, Spatial Analysis
+    <p style="margin-bottom: 10px;">
+    I am currently a Ph.D. candidate in Public Administration, holding a B.A. in Composition and Public Administration and an M.A. in Public Administration. I investigate how everyday urban policy instruments—such as parks and public bicycles—and the capital that supports them operate across space. By examining where and how these mechanisms function, I aim to generate evidence that informs the design of more effective and equitable climate adaptation policies, ultimately contributing to more sustainable cities. In my free time, I like taking walks with my dog Orion, practicing kendo, playing the piano, and riding bikes around the city.
+    
+  <div class="research-tags">
+  <span>Urban Infrastructure</span>
+  <span>Climate Change Adaptation Policy</span>
+  <span>International Regimes on Climate Change</span>
+  <span>GISn</span>
+  <span>Spatial Analysis</span>
+</div>
     </p>
-  </div>
+    </div>
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
@@ -72,10 +78,8 @@ author_profile: true
   <span>Policy Evaluation</span>
   <span>Governance</span>
 </div>
-
     </p>
-  
-  </div>
+    </div>
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
