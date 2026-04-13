@@ -62,7 +62,7 @@ author_profile: true
     M.A. in Public Administration, Ewha Womans University<br>
     <em>Joined SSPL in 2021</em></p>
 
-    <p>
+    <p style="margin-bottom: 10px;">
     Born and raised in the countryside, I am currently a Ph.D. student in Public Administration at Ewha Womans University, where I also earned my B.A. and M.A. degrees. I study the meanings and underlying structures behind social phenomena by defining and analyzing social problems. I aim to become a researcher who contributes to a better society by providing meaningful policy implications. In my spare time, I enjoy listening to music, watching baseball, and taking leisurely walks.  
     
   <div class="research-tags">
