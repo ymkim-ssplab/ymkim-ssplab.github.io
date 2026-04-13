@@ -83,7 +83,7 @@ author_profile: true
   <div>
     <h3 style="margin-top: 0;">Kayeone Nam</h3>
     <p><strong>M.A. Student (M2)</strong></p>
-
+    <em>Joined SSPL in 2025</em></p>
     <p>
     Student Name studies sustainability, urban resilience, and public policy evaluation.
    <br>
@@ -97,7 +97,7 @@ author_profile: true
   <div>
     <h3 style="margin-top: 0;">Songyeon Kang</h3>
     <p><strong>M.A. Student (M2)</strong></p>
-
+    <em>Joined SSPL in 2024</em></p>
     <p>
     Student Name studies sustainability, urban resilience, and public policy evaluation.
   <br>
