@@ -101,6 +101,7 @@ author_profile: true
     </p>
   </div>
 </div>
+    </style>
 
 ## Alumni
 
@@ -139,5 +140,4 @@ author_profile: true
 
 
   </div>
-    </style>
 </div>
