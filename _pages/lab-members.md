@@ -46,13 +46,25 @@ author_profile: true
    <br>
     - Research Interests: Environment, Climate Change, Disaster Response, Policy Evaluation, Governance
     </p>
-    <div class="research-tags">
-  <span>Environment</span>
-  <span>Climate Change</span>
-  <span>Disaster Response</span>
-  <span>Policy Evaluation</span>
-  <span>Governance</span>
-</div>
+  
+<style>
+.research-tags {
+  margin-top: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.research-tags span {
+  display: inline-block;
+  padding: 6px 12px;
+  border-radius: 16px;
+  background-color: #f1f3f5;
+  color: #555;
+  font-size: 0.9rem;
+}
+</style>
+
   </div>
 </div>
 
