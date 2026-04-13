@@ -79,15 +79,21 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/nam.png" alt="Kayeone Nam" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <img src="/images/nam.jpg" alt="Kayeone Nam" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 0;">Kayeone Nam</h3>
     <p><strong>M.A. Student (M2)</strong></p>
     <em>Joined SSPL in 2025</em></p>
-    <p>
-    Student Name studies sustainability, urban resilience, and public policy evaluation.
-   <br>
-    Research Interests: Sustainability, Urban Resilience, Policy Evaluation
+    
+    <p style="margin-bottom: 10px;">
+    I graduated from Ewha Womans University with a major in International Office Administration and a double major in Public Administration. I am currently pursuing a master’s degree in Public Administration at the same institution. My research interests include climate change policy, sustainability, and the relationship between digital technology development and environmental quality. Through my research, I aim to contribute to building a more sustainable society. In my spare time, I enjoy walking, practicing ballet, and listening to music. 
+    
+  <div class="research-tags">
+  <span>Environment</span>
+  <span>Climate Change</span>
+  <span>Sustainability</span>
+  <span>Technology Development</span>
+</div>
     </p>
   </div>
 </div>
