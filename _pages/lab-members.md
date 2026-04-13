@@ -106,7 +106,7 @@ author_profile: true
     <em>Joined SSPL in 2024</em></p>
     
     <p style="margin-bottom: 10px;">
-    I received my bachelor’s degree from Ewha Womans University, where I double majored in French Language and Literature and Public Administration. Currently, I am pursuing a master’s degree in Public Administration at Ewha Womans University.I am interested in sustainable development and the role of cities as spaces where people live their everyday lives. I often reflect on how cities should evolve to better support sustainability and citizens’ quality of life. Given that governments play a central role in shaping and managing urban environments, I am especially focusing on understanding the roles government should take in guiding this process.In my free time, I enjoy exploring various liquors, watching plays and musicals, and reading detective fictions. 
+    I received my bachelor’s degree from Ewha Womans University, where I double majored in French Language and Literature and Public Administration. Currently, I am pursuing a master’s degree in Public Administration at Ewha Womans University. I am interested in sustainable development and the role of cities as spaces where people live their everyday lives. I often reflect on how cities should evolve to better support sustainability and citizens’ quality of life. Given that governments play a central role in shaping and managing urban environments, I am especially focusing on understanding the roles government should take in guiding this process.In my free time, I enjoy exploring various liquors, watching plays and musicals, and reading detective fictions. 
     
   <div class="research-tags">
   <span>Environment</span>
