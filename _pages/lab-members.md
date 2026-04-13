@@ -31,9 +31,9 @@ author_profile: true
   padding: 5px 10px;
   border-radius: 14px;
   background: #eef3ef;
-  color: #2f6b3c;
+  color: #444;
   font-size: 0.85em;
-  font-weight: 500;
+  font-weight: 400;
   white-space: nowrap;
 }
 </style>
