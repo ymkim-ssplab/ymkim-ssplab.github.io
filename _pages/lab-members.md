@@ -99,7 +99,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/kang.jpg" alt="Songyeon Kang" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <img src="/images/kang.jpg" alt="Songyeon Kang" style="width: 120px; height: 120px; object-fit: cover; object-position: center top; border-radius: 8px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 0;">Songyeon Kang</h3>
     <p><span style="font-weight: 600;">M.A. Student (M2)</span><br>
