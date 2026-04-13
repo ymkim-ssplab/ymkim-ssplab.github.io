@@ -53,7 +53,7 @@ author_profile: true
   <span>Urban Infrastructure</span>
   <span>Adaptation Policy</span>
   <span>International Regimes</span>
-  <span>GISn</span>
+  <span>GIS</span>
   <span>Spatial Analysis</span>
 </div>
     </p>
