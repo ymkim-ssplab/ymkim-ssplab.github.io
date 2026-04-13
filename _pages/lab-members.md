@@ -58,7 +58,7 @@ author_profile: true
   <img src="/images/yu.jpg" alt="Mihyeon Yu" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 0;">Mihyeon Yu</h3>
-    <p><span style="font-weight: 600;">Ph.D. Student (D3)</span><br>
+    <p><span style="font-weight: 600;">Ph.D. Student (D2)</span><br>
     M.A. in Public Administration, Ewha Womans University<br>
     <em>Joined SSPL in 2021</em></p>
 
