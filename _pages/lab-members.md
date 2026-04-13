@@ -23,7 +23,7 @@ author_profile: true
     <h3 style="margin-top: 0;">Jinhee Han</h3>
     <p><strong>Ph.D. Student (D3)</strong><br>
     M.A. in Public Administration, Ewha Womans University<br>
-    *Joined SSPL in 2022*</p>
+    <em>Joined SSPL in 2022</em></p>
 
     <p>
     Student Name is interested in climate change policy, environmental governance, and spatial inequality.
@@ -39,12 +39,12 @@ author_profile: true
     <h3 style="margin-top: 0;">Mihyeon Yu</h3>
     <p><strong>Ph.D. Student (D2)</strong><br>
     M.A. in Public Administration, Ewha Womans University<br>
-    *Joined SSPL in 2021*</p>
+    <em>Joined SSPL in 2021</em></p>
 
     <p>
     Born and raised in the countryside, I am currently a Ph.D. student in Public Administration at Ewha Womans University, where I also earned my B.A. and M.A. degrees. I study the meanings and underlying structures behind social phenomena by defining and analyzing social problems. I aim to become a researcher who contributes to a better society by providing meaningful policy implications. In my spare time, I enjoy listening to music, watching baseball, and taking leisurely walks.
    <br>
-    Research Interests: Environment, Climate Change, Disaster Response, Policy Evaluation, Governance
+    - Research Interests: Environment, Climate Change, Disaster Response, Policy Evaluation, Governance
     </p>
   </div>
 </div>
