@@ -7,7 +7,7 @@ author_profile: true
 
 <h2>Articles <span style="font-weight: normal; font-style: italic;">(published)</span></h2>
 
-- "The Role of Green Infrastructure in Enhancing Flood Resilience: A Spatial Perspective." Environmental Management, 2026. *Accepted.* (Corresponding author; English / SCIE)
+- "The Role of Green Infrastructure in Enhancing Flood Resilience: A Spatial Perspective." Environmental Management. 76(5):169. 2026. (Corresponding author; English / SCIE)
 - "Performance and Determinants of Municipal Governments’ Payments for Ecosystem Services Contracts / 지방정부 생태계서비스지불제계약의 성과와 영향요인 분석." The Korean Journal of Local Government Studies / 지방정부연구. 29(4):49-73. 2026. (Corresponding author; Korean / KCI)
 - “Risk, Efficacy, and the Moderating Role of Policy Effectiveness in Microplastic Reduction Intentions.” Asian Journal of Water, Environment and Pollution.  23(1): 147–165. 2026. (Corresponding author; English / SCOPUS)
 - “Unveiling Urban Spatial Dynamics in Climate and Air Quality Indicators: A Local Estimation of the Environmental Kuznets Curve and the Impact of Green Infrastructure.” The Annals of Regional Science, 74(1): 1–22. 2025. (First & Corresponding author; English / SSCI)
