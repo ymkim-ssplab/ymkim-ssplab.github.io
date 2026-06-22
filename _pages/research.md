@@ -22,7 +22,7 @@ author_profile: true
 - Climate risk and spatial inequality
 
 ## Selected Funded Projects
-- Mid-Career Researcher Program. "An Analysis of Spatial Characteristics and Policy Acceptability of Green Infrastructure for Climate Change Response". National Research Foundation of Korea (NRF) & Ministry of Education. June. 2026 – May. 2029.
+- Mid-Career Researcher Program. "An Analysis of Spatial Characteristics and Policy Acceptability of Green Infrastructure for Climate Change Response". National Research Foundation of Korea (NRF) & Ministry of Education. June. 2026 – May. 2029
 - Global-Learning & Academic research institution for Master’s · PhD students, and Postdocs (G-LAMP) Program. National Research Foundation of Korea (NRF) grant funded by the Ministry of Education. Sep. 2025 – Agu. 2030
 - Convergence Research Center (CRC) "Strategic Solutions for Environmental Blindspots in the Interest of Society". National Research Foundation of Korea & Korea government (MSIT). Jun. 2023 – Feb. 2025
 - BK21 "Toward Fostering Inclusive Public Leadership in a Resilient Society". Ministry of Education. Mar. 2024 – Present
