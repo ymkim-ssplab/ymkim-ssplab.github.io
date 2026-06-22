@@ -84,9 +84,19 @@ She maintains ongoing international collaborations with scholars in Japan, the U
 -->
 
   <li>
+    <span class="news-date">Feb. 2026.</span>
+    Paper accepted in <em>Korea Association for Policy Studies (한국정책학회보)</em> (SCOPUS), with Songyeon Kang as the first author
+  </li>
+
+    <li>
+    <span class="news-date">Feb. 2026.</span>
+    Paper accepted in <em>Korean Journal of Policy Analysis and Evaluation (정책분석평가학회보)</em> (KCI), with Mihyeon Yu as the first author
+  </li>
+
+  <li>
     <span class="news-badge">NEW</span>
     <span class="news-date">Apr. 2026.</span>
-      Paper published in <em>Environmental Management</em> (SCIE), with Jinhee Han as first author
+      Paper published in <em>Environmental Management</em> (SCIE), with Jinhee Han as the first author
    </li>
 
   <li>
@@ -97,12 +107,12 @@ She maintains ongoing international collaborations with scholars in Japan, the U
 
   <li>
     <span class="news-date">Feb. 2026.</span>
-    Paper published in <em>The Korean Journal of Local Government Studies (지방정부연구)</em> (KCI), with Kayeon Nam as first author
+    Paper published in <em>The Korean Journal of Local Government Studies (지방정부연구)</em> (KCI), with Kayeon Nam as the first author
   </li>
 
   <li>
     <span class="news-date">Feb. 2026.</span>
-    Paper published in <em>Asian Journal of Water, Environment and Pollution</em> (SCOPUS), with Mihyeon Yu as first author
+    Paper published in <em>Asian Journal of Water, Environment and Pollution</em> (SCOPUS), with Mihyeon Yu as the first author
   </li>
 
 <br>
