@@ -9,7 +9,8 @@ author_profile: true
 ### Heatwave Shelters for Vulnerable Populations (KBS News 9, 24 Aug. 2026)
 Featured as an expert commentator on the spatial accessibility and policy effectiveness of heatwave shelters.
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 1.2em 0 2em 0;">
+<div style="width: 75%; margin: 1.2em auto 2em auto;">
+ <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 1.2em 0 2em 0;">
   <iframe
     src="https://www.youtube.com/embed/vAwwE-IYfFk"
     title="KBS News - Heatwave Shelters and Vulnerable Populations"
