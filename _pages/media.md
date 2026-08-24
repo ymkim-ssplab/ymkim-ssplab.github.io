@@ -6,9 +6,7 @@ author_profile: true
 
 ## Interviews and Media Coverage
 
-### KBS News: Heatwave Shelters and Vulnerable Populations
-
-**KBS News 9, August 2026**
+### KBS News 9: Heatwave Shelters for Vulnerable Populations (24 August 2026)
 
 Featured as an expert commentator on the spatial accessibility and policy effectiveness of heatwave shelters.
 
