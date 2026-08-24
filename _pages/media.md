@@ -10,7 +10,7 @@ author_profile: true
 
 **KBS News 9, August 2026**
 
-Featured as an expert commentator in a KBS News 9 report on the accessibility and effectiveness of heatwave shelters for vulnerable populations.
+Featured as an expert commentator on the spatial accessibility and policy effectiveness of heatwave shelters.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 1.2em 0 2em 0;">
   <iframe
