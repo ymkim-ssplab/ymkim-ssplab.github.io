@@ -86,7 +86,7 @@ She maintains ongoing international collaborations with scholars in Japan, the U
   <li>
      <span class="news-badge">NEW</span>
     <span class="news-date">June. 2026.</span>
-    Aug. 2026. Featured in a KBS News 9 report on heatwave shelters and vulnerable populations. [Watch the report](/media/)
+    Aug. 2026. Featured in a KBS News 9 report on heatwave shelters and vulnerable populations [Watch the report](/media/)
   </li>
 
   <li>
