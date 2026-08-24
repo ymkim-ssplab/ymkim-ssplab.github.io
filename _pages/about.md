@@ -86,17 +86,15 @@ She maintains ongoing international collaborations with scholars in Japan, the U
   <li>
      <span class="news-badge">NEW</span>
     <span class="news-date">June. 2026.</span>
-    Aug. 2026. Featured in a KBS News 9 report on heatwave shelters and vulnerable populations [Watch the report](/media/)
+    Aug. 2026. Featured in a KBS News 9 report on heatwave shelters and vulnerable populations
   </li>
 
   <li>
-     <span class="news-badge">NEW</span>
-    <span class="news-date">June. 2026.</span>
+   <span class="news-date">June. 2026.</span>
     Paper published in <em>Korean Journal of Policy Analysis and Evaluation (정책분석평가학회보)</em> (KCI), with  Mihyeon Yu as the first author
   </li>
 
   <li>
-    <span class="news-badge">NEW</span>
     <span class="news-date">June. 2026.</span>
     Paper accepted in <em>Korea Association for Policy Studies (한국정책학회보)</em> (KCI), with Songyeon Kang as the first author
   </li>
