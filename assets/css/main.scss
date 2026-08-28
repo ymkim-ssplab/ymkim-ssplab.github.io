@@ -157,3 +157,30 @@
 .masthead__menu-item {
   background: transparent;
 }
+
+/* =========================================
+   Navigation width fix
+   ========================================= */
+
+/* Slightly reduce the lab title width */
+.greedy-nav .site-title {
+  font-size: 0.92em;
+  margin-right: 0.5rem;
+  white-space: nowrap;
+}
+
+/* Reduce menu spacing */
+.greedy-nav .visible-links li {
+  margin: 0;
+}
+
+.greedy-nav .visible-links a {
+  padding-left: 0.35rem;
+  padding-right: 0.35rem;
+}
+
+/* Give navigation links more room */
+.greedy-nav .visible-links {
+  flex: 1;
+  justify-content: flex-end;
+}
