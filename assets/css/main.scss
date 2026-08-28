@@ -64,6 +64,11 @@
   background: transparent;
 }
 
+/* Keep all masthead menu items transparent */
+.masthead__menu-item {
+  background-color: transparent !important;
+}
+
 /* -----------------------------------------
    Lab title
    ----------------------------------------- */
