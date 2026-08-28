@@ -184,3 +184,25 @@
   flex: 1;
   justify-content: flex-end;
 }
+
+/* =========================================
+   Active navigation underline only
+   ========================================= */
+
+/* No underline under the lab title */
+.greedy-nav .site-title::before,
+.greedy-nav .site-title::after {
+  content: none !important;
+  display: none !important;
+}
+
+/* Hide default underline on every menu */
+.greedy-nav .visible-links a::before {
+  background: transparent !important;
+}
+
+/* Active menu underline */
+.greedy-nav .visible-links .masthead__menu-item--active a::before {
+  background: #b7d95a !important;
+  height: 3px;
+}
