@@ -220,3 +220,13 @@
 .masthead__menu-item.selected a::before {
   display: none !important;
 }
+
+/* Two-line SSPL title */
+.greedy-nav .site-title {
+  display: block;
+  line-height: 1.15;
+}
+
+.greedy-nav .site-title span {
+  display: block;
+}
