@@ -246,8 +246,47 @@
   display: block;
 }
 
-/* Lab title width */
-.masthead__menu-item--lg {
-  width: 220px;
-  padding-right: 0.8em;
+/* =========================================================
+   Align header with sidebar and main content
+   ========================================================= */
+
+@media (min-width: 1024px) {
+
+  .masthead__inner-wrap {
+    max-width: $x-large !important;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+
+  .greedy-nav .visible-links {
+    width: 100%;
+  }
+
+  /* Lab title = sidebar column */
+  .masthead__menu-item--lg {
+    width: 16.6667%;   /* 2 of 12 columns */
+    padding-right: 0;
+  }
+
+  /* Home starts where main content starts:
+     2 sidebar columns + 0.5 column prefix */
+  .masthead__menu-item--lg + .masthead__menu-item {
+    margin-left: 4.1667%;   /* 0.5 of 12 */
+  }
+
+  /* Keep the title compact */
+  .greedy-nav .site-title {
+    line-height: 1.1;
+  }
+
+  .greedy-nav .site-title span {
+    display: block;
+  }
+
+  /* Remove extra left margin from Home */
+  .masthead__menu-item--lg + .masthead__menu-item a {
+    margin-left: 0;
+  }
 }
