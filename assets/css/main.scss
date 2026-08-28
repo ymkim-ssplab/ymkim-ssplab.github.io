@@ -235,3 +235,19 @@
   width: 220px;
   padding-right: 0.8em;
 }
+
+/* Two-line lab title */
+.greedy-nav .site-title {
+  display: block;
+  line-height: 1.1;
+}
+
+.greedy-nav .site-title span {
+  display: block;
+}
+
+/* Lab title width */
+.masthead__menu-item--lg {
+  width: 220px;
+  padding-right: 0.8em;
+}
