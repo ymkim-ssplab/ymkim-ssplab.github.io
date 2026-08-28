@@ -42,8 +42,118 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Keep all top navigation items visible */
+/* =========================================================
+   SSPL Custom Header
+   Dark navy academic header + lime active accent
+   ========================================================= */
+
+/* Header background */
+.masthead {
+  background: #0d2742;
+  border-bottom: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.10);
+}
+
+/* Inner header area */
+.masthead__inner-wrap {
+  background: transparent;
+}
+
+/* Greedy navigation background */
+.greedy-nav {
+  background: transparent;
+}
+
+/* ---------------------------------------------------------
+   Lab title
+   --------------------------------------------------------- */
+
+.greedy-nav .site-title {
+  color: #ffffff !important;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+/* Keep title white on hover */
+.greedy-nav .site-title:hover {
+  color: #ffffff !important;
+}
+
+/* ---------------------------------------------------------
+   Navigation links
+   --------------------------------------------------------- */
+
 .greedy-nav .visible-links a {
-  padding-left: 0.7rem;
-  padding-right: 0.7rem;
+  color: rgba(255, 255, 255, 0.88) !important;
+
+  /* Slightly reduced padding to keep Lab Members visible */
+  padding-left: 0.70rem;
+  padding-right: 0.70rem;
+
+  transition: color 0.2s ease;
+}
+
+/* Menu hover */
+.greedy-nav .visible-links a:hover {
+  color: #ffffff !important;
+}
+
+/* ---------------------------------------------------------
+   Active page
+   --------------------------------------------------------- */
+
+.greedy-nav .visible-links .masthead__menu-item--active a {
+  color: #ffffff !important;
+  font-weight: 700;
+}
+
+/* Active underline */
+.greedy-nav .visible-links .masthead__menu-item--active a::before {
+  background: #b7d95a !important;
+  height: 3px;
+}
+
+/* ---------------------------------------------------------
+   Theme toggle / hamburger button
+   --------------------------------------------------------- */
+
+.greedy-nav button {
+  color: #ffffff !important;
+  background: transparent !important;
+}
+
+.greedy-nav button:hover {
+  color: #b7d95a !important;
+}
+
+/* Font Awesome icons inside buttons */
+.greedy-nav button i,
+.greedy-nav button svg {
+  color: inherit !important;
+}
+
+/* ---------------------------------------------------------
+   Hidden / overflow navigation menu
+   --------------------------------------------------------- */
+
+.greedy-nav .hidden-links {
+  background: #ffffff;
+  border: 1px solid #e5e5e5;
+  box-shadow: 0 5px 12px rgba(0, 0, 0, 0.12);
+}
+
+.greedy-nav .hidden-links a {
+  color: #333333 !important;
+}
+
+.greedy-nav .hidden-links a:hover {
+  color: #0d2742 !important;
+}
+
+/* ---------------------------------------------------------
+   Mobile menu button
+   --------------------------------------------------------- */
+
+.masthead__menu-item {
+  background: transparent;
 }
