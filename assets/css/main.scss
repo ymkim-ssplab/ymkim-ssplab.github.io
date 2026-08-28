@@ -41,3 +41,9 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Keep all top navigation items visible */
+.greedy-nav .visible-links a {
+  margin-left: 0.45rem;
+  margin-right: 0.45rem;
+}
