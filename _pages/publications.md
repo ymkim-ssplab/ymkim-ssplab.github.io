@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+.page__content {
+  max-width: 950px;
+}
+</style>
+
 <h2>Articles <span style="font-weight: normal; font-style: italic;">(published)</span></h2>
 
 - "Policy Discourse on Semi-basement Housing Flood Responses: A Structural Topic Modeling Analysis of Newspaper Coverage / 반지하주택 침수 대응에 대한 정책 담론 분석: 언론 기사를 활용한 구조적 토픽모델링의 적용." Korean Journal of Policy Analysis and Evaluation / 정책분석평가학회보. 36(2): 1-38. 2026. (Corresponding author; Korean / KCI)
