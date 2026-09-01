@@ -213,12 +213,12 @@
       display: table-cell;
       vertical-align: middle;
 
-    @include breakpoint($x-large) {
+
+      @include breakpoint($x-large) {
       &:nth-child(2) {
-        padding-left: 3rem;
+        padding-left: 4rem;
       }
     }
-
 
       &:first-child {
         font-weight: bold;
