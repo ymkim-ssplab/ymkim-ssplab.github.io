@@ -184,6 +184,9 @@
     color: var(--global-masthead-link-color);
     text-decoration: none;
 
+   @include breakpoint($x-large) {
+    margin: 0 1.4rem;
+  }
 
     &:hover {
       color: var(--global-masthead-link-color-hover);
