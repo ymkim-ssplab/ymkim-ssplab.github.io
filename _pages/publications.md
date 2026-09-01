@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <style>
-.page__content {
+.archive {
   max-width: 950px;
 }
 </style>
