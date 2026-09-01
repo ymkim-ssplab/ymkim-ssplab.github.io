@@ -184,10 +184,6 @@
     color: var(--global-masthead-link-color);
     text-decoration: none;
 
-   @include breakpoint($x-large) {
-    margin: 0 2.0rem;
-  }
-
     &:hover {
       color: var(--global-masthead-link-color-hover);
     }
@@ -212,6 +208,19 @@
     li {
       display: table-cell;
       vertical-align: middle;
+
+     @include breakpoint($x-large) {
+
+      /* 사이트 제목과 Home 사이 */
+      &:nth-child(2) {
+        padding-left: 10rem;
+      }
+
+      /* Home 이후 각 메뉴 사이 */
+      &:nth-child(n+3) {
+        padding-left: 1rem;
+      }
+    }
 
       @include breakpoint($x-large) {
       &:nth-child(2) {
