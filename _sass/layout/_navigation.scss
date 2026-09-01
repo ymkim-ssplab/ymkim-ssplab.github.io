@@ -184,9 +184,6 @@
     color: var(--global-masthead-link-color);
     text-decoration: none;
 
-    @include breakpoint($x-large) {
-    margin: 0 1.7rem;
-  }
 
     &:hover {
       color: var(--global-masthead-link-color-hover);
@@ -212,7 +209,6 @@
     li {
       display: table-cell;
       vertical-align: middle;
-
 
       @include breakpoint($x-large) {
       &:nth-child(2) {
