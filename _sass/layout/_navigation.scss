@@ -208,15 +208,17 @@
 
   .visible-links {
     display: table;
-
-   @include breakpoint($x-large) {
-   margin-left: 3rem;
-  }
-
-     
+   
     li {
       display: table-cell;
       vertical-align: middle;
+
+    @include breakpoint($x-large) {
+      &:nth-child(2) {
+        padding-left: 3rem;
+      }
+    }
+
 
       &:first-child {
         font-weight: bold;
