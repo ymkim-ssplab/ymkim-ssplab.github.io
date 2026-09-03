@@ -22,8 +22,22 @@ Featured as an expert commentator on the spatial accessibility and policy effect
  </div>
 </div>
 
-## Newspaper Columns 
-
-
 ## Public Lectures and Outreach
 
+### Administrative Research Methods: A Blended Learning Case
+Featured as a best-practice case by the Ewha Womans University Center for Excellence in Teaching & Learning.
+*Ewha Womans University Center for Excellence in Teaching & Learning, 24 Oct. 2024*
+
+<div class="video-container">
+  <div class="video-wrapper">
+    <iframe
+      src="https://core.ewha.ac.kr/publicview/1802813752"
+      title="Blended Learning Best Practice: Administrative Research Methods"
+      frameborder="0"
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
+
+
+## Newspaper Columns 
