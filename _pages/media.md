@@ -37,6 +37,10 @@ Featured as an expert commentator on the spatial accessibility and policy effect
   </div>
 </div>
 
+### Accessibility Gaps in Heatwave Shelters: Urban–Rural Disparities (KBS In-Depth, 30 Aug. 2026)
+Featured as an expert commentator on inconsistencies in heatwave shelter data and the need for standardized management criteria.  
+[Read the full article on KBS News](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8649698)
+
 ## Public Lectures and Outreach
 
 ### Administrative Research Methods: A Blended Learning Case
