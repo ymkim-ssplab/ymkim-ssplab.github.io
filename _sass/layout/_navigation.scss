@@ -205,44 +205,38 @@
   .visible-links {
     display: table;
    
-    li {
-      display: table-cell;
-      vertical-align: middle;
+ li {
+  display: table-cell;
+  vertical-align: middle;
 
-     @include breakpoint($x-large) {
+  @media (min-width: 1900px) {
 
-      /* 사이트 제목과 Home 사이 */
-      &:nth-child(2) {
-        padding-left: 10rem;
-      }
-
-      /* Home 이후 각 메뉴 사이 */
-      &:nth-child(n+3) {
-        padding-left: 2.5rem;
-      }
+    /* 사이트 제목과 Home 사이 */
+    &:nth-child(2) {
+      padding-left: 10rem;
     }
 
-      @include breakpoint($x-large) {
-      &:nth-child(2) {
-        padding-left: 10rem;
-      }
+    /* Home 이후 각 메뉴 사이 */
+    &:nth-child(n+3) {
+      padding-left: 2.5rem;
     }
+  }
 
-      &:first-child {
-        font-weight: bold;
-        text-wrap: wrap;
+  &:first-child {
+    font-weight: bold;
+    text-wrap: wrap;
 
-        a {
-          margin-left: 0;
-        }
-      }
-
-      &:last-child {
-        a {
-          margin-right: 0;
-        }
-      }
+    a {
+      margin-left: 0;
     }
+  }
+
+  &:last-child {
+    a {
+      margin-right: 0;
+    }
+  }
+}
 
     #theme-toggle {
       a {
