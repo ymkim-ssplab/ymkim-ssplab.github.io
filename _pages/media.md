@@ -69,4 +69,4 @@ Featured as a best-practice case in blended learning by the Ewha Womans Universi
   </iframe>
 </div>
 
-## Newspaper Columns
+<!--## Newspaper Columns
