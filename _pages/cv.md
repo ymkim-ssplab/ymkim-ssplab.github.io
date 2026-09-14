@@ -33,7 +33,7 @@ Academic Appointments
 * Spring 2026 Visiting Scholar, Waseda University.
 * Mar. 2023 – Present	Associate Professor, Department of Public Administration, Ewha Womans University. 
 * Jun. 2023 – Present	Research Member, Center of SEBIS (Strategic Solutions for Environmental Blindspots in the Interest of Society), Ewha Womans University.
-* Jan. 2023 – Present	Visiting Researcher, Research Center for Sustainability and Environment, Shiga University. 
+* Jan. 2023 – Present	Visiting Researcher, Shiga University. 
 * Feb. 2023 – Jan. 2025	Associate Vice President, Office of Admissions, Ewha Womans University. 
 * Aug. 2020 – Jul. 2022	Department Chair, Department of Public Administration, Ewha Womans University. 
 * Mar. 2018 – Feb. 2023	Assistant Professor, Department of Public Administration, Ewha Womans University. 
