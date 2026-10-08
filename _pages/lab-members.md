@@ -123,7 +123,7 @@ author_profile: true
   </div>
 </div>
 
-## Undergraduate Students (Research Interns)
+## Undergraduate Student (Research Intern)
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/images/seo.jpg" alt="Jeongmin Seo" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
