@@ -129,7 +129,7 @@ author_profile: true
   <img src="/images/Jeongmin Seo.jpg" alt="Jeongmin Seo" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 0;">Jeongmin Seo</h3>
-    <p><span style="font-weight: 600;">B.A. Student (M2)</span><br>
+    <p><span style="font-weight: 600;">B.A. Student</span><br>
     <em>Joined SSPL in 2026</em></p>
     
     <p style="margin-bottom: 10px;">
