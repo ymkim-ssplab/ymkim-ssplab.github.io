@@ -136,10 +136,8 @@ author_profile: true
     I am currently pursuing a B.A. in Public Administration at Ewha Womans University. I am interested in environmental policy and sustainability. I hope to deepen my understanding of environmental policy research during my time in the lab. 
     
   <div class="research-tags">
-  <span>Environment</span>
+  <span>Environment policy</span>
   <span>Sustainability</span>
-  <span>Urban Area</span>
-  <span>Sustainable Development</span>
 </div>
     </p>
   </div>
