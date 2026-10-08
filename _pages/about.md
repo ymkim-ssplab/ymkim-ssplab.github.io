@@ -84,12 +84,13 @@ She maintains ongoing international collaborations with scholars in Japan, the U
 -->
 
   <li>
+    <span class="news-badge">NEW</span>
     <span class="news-date">Sep. 2026.</span>
     Paper published in <em>Korea Association for Policy Studies (한국정책학회보)</em> (KCI), with Songyeon Kang as the first author
   </li>
   
   <li>
-     <span class="news-badge">NEW</span>
+    <span class="news-badge">NEW</span>
     <span class="news-date">Aug. 2026.</span>
      Featured in a <a href="/media/">KBS News 9 report</a> on heatwave shelters for vulnerable populations
   </li>
