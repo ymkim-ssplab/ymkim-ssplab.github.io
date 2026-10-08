@@ -123,6 +123,27 @@ author_profile: true
   </div>
 </div>
 
+## Undergraduate Students (Research Interns)
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <img src="/images/kang.jpg" alt="Songyeon Kang" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <div>
+    <h3 style="margin-top: 0;">Jeongmin Seo</h3>
+    <p><span style="font-weight: 600;">B.A. Student (M2)</span><br>
+    <em>Joined SSPL in 2026</em></p>
+    
+    <p style="margin-bottom: 10px;">
+    I am currently pursuing a B.A. in Public Administration at Ewha Womans University. I am interested in environmental policy and sustainability. I hope to deepen my understanding of environmental policy research during my time in the lab. 
+    
+  <div class="research-tags">
+  <span>Environment</span>
+  <span>Sustainability</span>
+  <span>Urban Area</span>
+  <span>Sustainable Development</span>
+</div>
+    </p>
+  </div>
+</div>
 
 ## Alumni
 
