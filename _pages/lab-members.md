@@ -126,7 +126,7 @@ author_profile: true
 ## Undergraduate Students (Research Interns)
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/images/Jeongmin Seo.jpg" alt="Jeongmin Seo" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
+  <img src="/images/seo.jpg" alt="Jeongmin Seo" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; margin-right: 20px;">
   <div>
     <h3 style="margin-top: 0;">Jeongmin Seo</h3>
     <p><span style="font-weight: 600;">B.A. Student</span><br>
