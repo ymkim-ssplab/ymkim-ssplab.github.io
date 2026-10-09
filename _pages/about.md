@@ -77,12 +77,18 @@ She maintains ongoing international collaborations with scholars in Japan, the U
   <li>
     <span class="news-badge">NEW</span>
     <a href="/news-and-updates/" class="news-link">
-      <span class="news-date">Apr. 2026.</span>
+      <span class="news-date">Oct. 2026.</span>
       Paper accepted in <em>Environmental Management</em> (SCIE), with Han Jinhee as first author
     </a>
   </li>
 -->
 
+  <li>
+    <span class="news-badge">NEW</span>
+    <span class="news-date">Oct. 2026.</span>
+    Paper accepted in <em>Transportation</em> (SCIE/SSCI), with Jinhee Han as the first author
+  </li>
+  
   <li>
     <span class="news-badge">NEW</span>
     <span class="news-date">Sep. 2026.</span>
