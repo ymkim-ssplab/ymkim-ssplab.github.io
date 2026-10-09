@@ -102,7 +102,7 @@ She maintains ongoing international collaborations with scholars in Japan, the U
   </li>
 
   <li>
-   <span class="news-date">June. 2026.</span>
+   <span class="news-date">Jun. 2026.</span>
     Paper published in <em>Korean Journal of Policy Analysis and Evaluation (정책분석평가학회보)</em> (KCI), with  Mihyeon Yu as the first author
   </li>
 
