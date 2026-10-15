@@ -141,7 +141,7 @@ author_profile: true
     <p>
       We encourage inquiries from prospective
       graduate students who wish to pursue master’s or doctoral studies,
-      as well as undergraduate students interested in gaining research experience.</em>
+      as well as undergraduate students interested in gaining research experience.
     </p>
     <p>
       <em>If you are interested in joining or collaborating with our lab,
