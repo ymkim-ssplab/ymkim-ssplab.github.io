@@ -122,7 +122,7 @@ author_profile: true
     </p>
     <p>
       <em>If you are interested in joining or collaborating with our lab,
-      please contact Prof. Kim.</em>
+      please contact Prof. Kim (kimym@ewha.ac.kr).</em>
     </p>
   </aside>
 </div>
