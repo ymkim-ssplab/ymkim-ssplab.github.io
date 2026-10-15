@@ -48,7 +48,7 @@ author_profile: true
   padding: 0;
   border: 0;
   color: #355544;
-  font-size: 1.1em;
+  font-size: 1.3em;
 }
 
 .sspl-recruit-bubble p {
