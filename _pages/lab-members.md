@@ -4,15 +4,127 @@ permalink: /lab-members/
 author_profile: true
 ---
 
+<style>
+.sspl-director-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  margin-bottom: 30px;
+}
+
+.sspl-director-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.sspl-director-info h3 {
+  margin-top: 0;
+}
+
+.sspl-recruit-bubble {
+  position: relative;
+  flex: 1.3;
+  min-width: 0;
+  padding: 20px 24px;
+  border-radius: 16px;
+  background: #eef3ef;
+  color: #444;
+  font-size: 0.85em;
+  line-height: 1.65;
+}
+
+.sspl-recruit-bubble::before {
+  content: "";
+  position: absolute;
+  top: 28px;
+  left: -12px;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-right: 12px solid #eef3ef;
+}
+
+.sspl-recruit-bubble h3 {
+  margin: 0 0 10px;
+  padding: 0;
+  border: 0;
+  color: #355544;
+  font-size: 1.1em;
+}
+
+.sspl-recruit-bubble p {
+  margin: 0 0 12px;
+}
+
+.sspl-recruit-bubble p:last-child {
+  margin-bottom: 0;
+}
+
+.research-tags {
+  margin-top: 12px;
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 8px;
+  overflow-x: auto;
+}
+
+.research-tags span {
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 14px;
+  background: #eef3ef;
+  color: #444;
+  font-size: 0.85em;
+  font-weight: 400;
+  white-space: nowrap;
+}
+
+@media (max-width: 760px) {
+  .sspl-director-row {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .sspl-recruit-bubble {
+    flex: auto;
+    box-sizing: border-box;
+    width: 100%;
+  }
+
+  .sspl-recruit-bubble::before {
+    top: -12px;
+    left: 28px;
+    border: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 12px solid #eef3ef;
+  }
+}
+</style>
+
 ## Director
 
-<div style="margin-bottom: 30px;">
-  <h3 style="margin-top: 0;">Yoomi Kim</h3>
-  <p>
-    <span style="font-weight: 600;">Associate Professor</span><br>
-    Department of Public Administration<br>
-    Ewha Womans University
-  </p>
+<div class="sspl-director-row">
+  <div class="sspl-director-info">
+    <h3>Yoomi Kim</h3>
+    <p>
+      <span style="font-weight: 600;">Associate Professor</span><br>
+      Department of Public Administration<br>
+      Ewha Womans University
+    </p>
+  </div>
+  <aside class="sspl-recruit-bubble" aria-label="Join Our Lab">
+    <h3>Join Our Lab</h3>
+    <p>
+      SSPL welcomes motivated students interested in environmental and
+      international policy research. We encourage inquiries from prospective
+      graduate students who wish to pursue master’s or doctoral studies,
+      as well as undergraduate students interested in gaining research experience.
+    </p>
+    <p>
+      <em>If you are interested in joining or collaborating with our lab,
+      please contact Prof. Kim.</em>
+    </p>
+  </aside>
 </div>
 
 ## Graduate Students
