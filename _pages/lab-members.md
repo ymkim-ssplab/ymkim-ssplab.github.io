@@ -120,6 +120,9 @@ author_profile: true
     animation: none;
   }
 }
+  .sspl-recruit-bubble p {
+  font-size: 1.06em;
+}
 </style>
 
 ## Director
