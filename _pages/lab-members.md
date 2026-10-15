@@ -115,8 +115,8 @@ author_profile: true
   <aside class="sspl-recruit-bubble" aria-label="Join Our Lab">
     <h3>Join Our Lab</h3>
     <p>
-      SSPL welcomes motivated students interested in environmental and
-      international policy research. We encourage inquiries from prospective
+      SSPL welcomes motivated students interested in <strong>environmental and international policy research</strong>.
+      We encourage inquiries from prospective
       graduate students who wish to pursue master’s or doctoral studies,
       as well as undergraduate students interested in gaining research experience.
     </p>
