@@ -115,7 +115,7 @@ author_profile: true
   <aside class="sspl-recruit-bubble" aria-label="Join Our Lab">
     <h3>Join Our Lab</h3>
     <p>
-      SSPL welcomes motivated students interested in <strong>environmental and international policy research</strong>.
+      <strong>SSPL welcomes motivated students interested in environmental and international policy research</strong>.
       We encourage inquiries from prospective
       graduate students who wish to pursue master’s or doctoral studies,
       as well as undergraduate students interested in gaining research experience.
@@ -159,7 +159,10 @@ author_profile: true
     <em>Joined SSPL in 2022</em></p>
 
     <p style="margin-bottom: 10px;">
-    I am currently a Ph.D. candidate in Public Administration, holding a B.A. in Composition and Public Administration and an M.A. in Public Administration. I investigate how everyday urban policy instruments—such as parks and public bicycles—and the capital that supports them operate across space. By examining where and how these mechanisms function, I aim to generate evidence that informs the design of more effective and equitable climate adaptation policies, ultimately contributing to more sustainable cities. In my free time, I like taking walks with my dog Orion, practicing kendo, playing the piano, and riding bikes around the city.
+    I am currently a Ph.D. candidate in Public Administration, holding a B.A. in Composition and Public Administration and an M.A. in Public Administration. 
+    I investigate how everyday urban policy instruments—such as parks and public bicycles—and the capital that supports them operate across space. 
+    By examining where and how these mechanisms function, I aim to generate evidence that informs the design of more effective and equitable climate adaptation policies, 
+    ultimately contributing to more sustainable cities. In my free time, I like taking walks with my dog Orion, practicing kendo, playing the piano, and riding bikes around the city.
     
   <div class="research-tags">
   <span>Urban Infrastructure</span>
@@ -182,7 +185,10 @@ author_profile: true
     <em>Joined SSPL in 2021</em></p>
 
     <p style="margin-bottom: 10px;">
-    Born and raised in the countryside, I am currently a Ph.D. student in Public Administration at Ewha Womans University, where I also earned my B.A. and M.A. degrees. I study the meanings and underlying structures behind social phenomena by defining and analyzing social problems. I aim to become a researcher who contributes to a better society by providing meaningful policy implications. In my spare time, I enjoy listening to music, watching baseball, and taking leisurely walks.  
+    Born and raised in the countryside, I am currently a Ph.D. student in Public Administration at Ewha Womans University, where I also earned my B.A. and M.A. degrees. 
+    I study the meanings and underlying structures behind social phenomena by defining and analyzing social problems. 
+    I aim to become a researcher who contributes to a better society by providing meaningful policy implications. 
+    In my spare time, I enjoy listening to music, watching baseball, and taking leisurely walks.  
     
   <div class="research-tags">
   <span>Environment</span>
@@ -203,7 +209,10 @@ author_profile: true
     <em>Joined SSPL in 2025</em></p>
     
     <p style="margin-bottom: 10px;">
-    I graduated from Ewha Womans University with a major in International Office Administration and a double major in Public Administration. I am currently pursuing a master’s degree in Public Administration at the same institution. My research interests include climate change policy, sustainability, and the relationship between digital technology development and environmental quality. Through my research, I aim to contribute to building a more sustainable society. In my spare time, I enjoy walking, practicing ballet, and listening to music. 
+    I graduated from Ewha Womans University with a major in International Office Administration and a double major in Public Administration. 
+    I am currently pursuing a master’s degree in Public Administration at the same institution. 
+    My research interests include climate change policy, sustainability, and the relationship between digital technology development and environmental quality. 
+    Through my research, I aim to contribute to building a more sustainable society. In my spare time, I enjoy walking, practicing ballet, and listening to music. 
     
   <div class="research-tags">
   <span>Environment</span>
@@ -223,7 +232,12 @@ author_profile: true
     <em>Joined SSPL in 2024</em></p>
     
     <p style="margin-bottom: 10px;">
-    I received my bachelor’s degree from Ewha Womans University, where I double majored in French Language and Literature and Public Administration. Currently, I am pursuing a master’s degree in Public Administration at Ewha Womans University. I am interested in sustainable development and the role of cities as spaces where people live their everyday lives. I often reflect on how cities should evolve to better support sustainability and citizens’ quality of life. Given that governments play a central role in shaping and managing urban environments, I am especially focusing on understanding the roles government should take in guiding this process.In my free time, I enjoy exploring various liquors, watching plays and musicals, and reading detective fictions. 
+    I received my bachelor’s degree from Ewha Womans University, where I double majored in French Language and Literature and Public Administration. 
+    Currently, I am pursuing a master’s degree in Public Administration at Ewha Womans University. 
+    I am interested in sustainable development and the role of cities as spaces where people live their everyday lives. 
+    I often reflect on how cities should evolve to better support sustainability and citizens’ quality of life. 
+    Given that governments play a central role in shaping and managing urban environments, 
+    I am especially focusing on understanding the roles government should take in guiding this process.In my free time, I enjoy exploring various liquors, watching plays and musicals, and reading detective fictions. 
     
   <div class="research-tags">
   <span>Environment</span>
@@ -245,7 +259,9 @@ author_profile: true
     <em>Joined SSPL in 2026</em></p>
     
     <p style="margin-bottom: 10px;">
-    I am currently pursuing a B.A. in Public Administration at Ewha Womans University. I am interested in environmental policy and sustainability. I hope to deepen my understanding of environmental policy research during my time in the lab. 
+    I am currently pursuing a B.A. in Public Administration at Ewha Womans University. 
+    I am interested in environmental policy and sustainability. 
+    I hope to deepen my understanding of environmental policy research during my time in the lab. 
     
   <div class="research-tags">
   <span>Environment policy</span>
