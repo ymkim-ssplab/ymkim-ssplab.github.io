@@ -134,7 +134,7 @@ author_profile: true
     </p>
   </div>
   <aside class="sspl-recruit-bubble" aria-label="Join Our Lab">
-    <h3>Join Our Lab</h3>
+    <h3>Join Our Lab🌱</h3>
     <p>
       <strong>SSPL welcomes motivated students interested in environmental and international policy research</strong>.
     </p>  
