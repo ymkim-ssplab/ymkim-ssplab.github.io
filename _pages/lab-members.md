@@ -99,6 +99,27 @@ author_profile: true
     border-bottom: 12px solid #eef3ef;
   }
 }
+
+  /* 모집 제목이 부드럽게 위아래로 움직이도록 */
+.sspl-recruit-bubble h3 {
+  animation: sspl-title-float 2.8s ease-in-out infinite;
+}
+
+@keyframes sspl-title-float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-4px);
+  }
+}
+
+/* 움직임 줄이기 설정을 사용하는 방문자 배려 */
+@media (prefers-reduced-motion: reduce) {
+  .sspl-recruit-bubble h3 {
+    animation: none;
+  }
+}
 </style>
 
 ## Director
